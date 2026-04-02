@@ -3,7 +3,9 @@
 This repository stores curated public blocklists
 
 [*] ==================================================
-    Post-processing counts:
-    Domains : 34466434
-    IPs     : 120939
+[*] Sorting and deduplicating outputs...
+[*] Post-processing counts:
+    Domains : 36826372
+    IPs     : 138877
+    Rejected: 3287
 [*] ==================================================
