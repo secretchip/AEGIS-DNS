@@ -17218,9 +17218,7 @@ ssl-check-links.info
 ssl-nl.persgroep.edgekey.net
 ssl.biglion.ru
 ssl.easypay.by
-ssl.google-analytics.com
 ssl.gs
-ssl.gstatic.com
 ssl.hurra.com
 ssl.o.auspost.com.au
 ssl.p.jwpcdn.com
@@ -17236,7 +17234,6 @@ ssor.tribdss.com
 ssp.rambler.ru
 sspapi-prd.samsungrs.com
 sstats.adobe.com
-sstats.bitdefender.com
 st.hellogil.com
 st.news
 st3.pro
