@@ -1,0 +1,51 @@
+# AEGIS-DNS public DNS statistics
+# Generated: 2026-05-27T22:34:17Z
+# Privacy: aggregate counters only; top clients/domains/logs are omitted.
+
+[LastHour]
+status=ok
+totalQueries=6340
+totalNoError=5974
+totalServerFailure=61
+totalNxDomain=304
+totalRefused=0
+totalAuthoritative=119
+totalRecursive=841
+totalCached=5289
+totalBlocked=92
+totalDropped=0
+totalClients=8
+allowListZones=21570
+allowedZones=439
+blockListZones=46160757
+blockedZones=2291
+cachedEntries=14145
+zones=7
+
+[LastDay]
+status=error
+error=Technitium returned status Access was denied.
+
+[LastWeek]
+status=ok
+totalQueries=994200
+totalNoError=985667
+totalServerFailure=6679
+totalNxDomain=1765
+totalRefused=15
+totalAuthoritative=19505
+totalRecursive=79450
+totalCached=894305
+totalBlocked=1240
+totalDropped=0
+totalClients=54
+allowListZones=21570
+allowedZones=439
+blockListZones=46160757
+blockedZones=2291
+cachedEntries=14145
+zones=7
+
+[LastMonth]
+status=error
+error=Technitium returned status Access was denied.

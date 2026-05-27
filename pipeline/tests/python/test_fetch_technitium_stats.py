@@ -91,6 +91,10 @@ class TechnitiumStatsScriptTests(unittest.TestCase):
         self.assertIn("[LastDay]", report)
         self.assertIn("totalQueries=100", report)
         self.assertIn("totalBlocked=20", report)
+        self.assertNotIn("# Source:", report)
+        self.assertNotIn("# Endpoint:", report)
+        self.assertNotIn("https://dns.example:53444", report)
+        self.assertNotIn("/api/dashboard/stats/get", report)
         self.assertNotIn("topClients", report)
         self.assertNotIn("should-not-appear", report)
 
@@ -110,6 +114,8 @@ class TechnitiumStatsScriptTests(unittest.TestCase):
 
         def fake_urlopen(request, timeout, context):
             captured["url"] = request.full_url
+            captured["method"] = request.get_method()
+            captured["data"] = request.data
             captured["timeout"] = timeout
             captured["context"] = context
             return FakeResponse()
@@ -124,12 +130,13 @@ class TechnitiumStatsScriptTests(unittest.TestCase):
             )
 
         parsed = urllib.parse.urlparse(captured["url"])
-        query = urllib.parse.parse_qs(parsed.query)
+        body = urllib.parse.parse_qs(captured["data"].decode("ascii"))
 
         self.assertEqual(parsed.path, "/api/dashboard/stats/get")
-        self.assertEqual(query["token"], ["secret-token"])
-        self.assertEqual(query["type"], ["LastDay"])
-        self.assertEqual(query["utc"], ["true"])
+        self.assertEqual(captured["method"], "POST")
+        self.assertEqual(body["token"], ["secret-token"])
+        self.assertEqual(body["type"], ["LastDay"])
+        self.assertEqual(body["utc"], ["true"])
         self.assertEqual(captured["timeout"], 15)
         self.assertIsNone(captured["context"])
         self.assertEqual(stats, {"totalQueries": 7})
