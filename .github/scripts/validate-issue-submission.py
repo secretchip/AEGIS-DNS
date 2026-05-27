@@ -7,16 +7,17 @@ DNS validator, and emit:
   - <stdout>        Markdown comment body for the issue (multi-line; the
                     workflow uses gh issue comment --body-file -)
   - var/submission/<issue-number>/valid.txt   sorted list of validated
-                    entries, ready to append to sources/pins/<side>.txt
+                    entries, ready to append to submissions/<side>.txt
                     when the maintainer applies the `approved` label.
 
 Reads the entire issue body from $ISSUE_BODY. The block expected is the
 "Domains" section's textarea contents (rendered by the Issue Forms as a
 fenced markdown block whose heading text starts with the field's label).
 
-Side detection ("block" vs "allow") uses the issue's labels in
-$ISSUE_LABELS (comma-separated). Recognized: type:block, type:allow.
-False-positive issues map to allow.
+Side detection ("block" vs "allow") prefers issue labels in $ISSUE_LABELS
+(comma-separated). Recognized: type:block, type:allow. False-positive issues
+map to allow and false-negative issues map to block. If labels are missing,
+the script falls back to the issue title/body from $ISSUE_TITLE/$ISSUE_BODY.
 
 Exit code is 0 unless required env is missing.
 """
@@ -38,19 +39,36 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from validate import load_or_fetch_iana_tlds, validate_entry  # noqa: E402
 
 TRAILING_COMMENT_RE = re.compile(r"\s*#.*$")
+TITLE_SIDE_RE = re.compile(r"^\s*\[(block|allow|false-positive|false-negative)\]", re.I)
+BLOCK_HEADING_RE = re.compile(r"^###\s+domains?\s+to\s+block\b", re.I | re.M)
+ALLOW_HEADING_RE = re.compile(
+    r"^###\s+(domains?\s+to\s+allow|wrongly-blocked\b)",
+    re.I | re.M,
+)
 
 # Strip Issue-Form headers like "### Domains to block" so the value chunks
 # are easy to slice. The form puts each field as `### Label\n\n<value>\n`.
 SECTION_HEADER_RE = re.compile(r"^###\s+", re.MULTILINE)
 
 
-def detect_side(labels: str) -> str:
-    """Return "block" or "allow" based on the issue labels."""
+def detect_side(labels: str, title: str = "", body: str = "") -> str:
+    """Return "block" or "allow" based on labels, then title/body fallback."""
     parts = {p.strip().lower() for p in labels.split(",")}
     if "type:allow" in parts or "false-positive" in parts:
         return "allow"
-    if "type:block" in parts:
+    if "type:block" in parts or "false-negative" in parts:
         return "block"
+
+    title_match = TITLE_SIDE_RE.match(title or "")
+    if title_match:
+        side = title_match.group(1).lower()
+        return "allow" if side in {"allow", "false-positive"} else "block"
+
+    if ALLOW_HEADING_RE.search(body or ""):
+        return "allow"
+    if BLOCK_HEADING_RE.search(body or ""):
+        return "block"
+
     # Fallback for unknown / hand-edited issues — default to allow because
     # an erroneous allow-add is recoverable; an erroneous block-add isn't.
     return "allow"
@@ -102,10 +120,11 @@ def parse_lines(section: str) -> list[tuple[int, str]]:
 
 def main() -> int:
     issue_number = os.environ.get("ISSUE_NUMBER", "0")
+    issue_title = os.environ.get("ISSUE_TITLE", "")
     issue_body = os.environ.get("ISSUE_BODY", "")
     issue_labels = os.environ.get("ISSUE_LABELS", "")
 
-    side = detect_side(issue_labels)
+    side = detect_side(issue_labels, issue_title, issue_body)
     section = extract_domains_section(issue_body)
     items = parse_lines(section)
 
@@ -174,8 +193,8 @@ def main() -> int:
     if valid_entries and not invalid_entries:
         lines.append(
             "✅ All entries are valid. A maintainer will review and apply the "
-            "`approved` label if accepted; that triggers an auto-PR adding the "
-            "entries to `sources/pins/{}.txt`.".format(side)
+            "`approved` label if accepted; that triggers an auto-PR staging the "
+            "entries in `submissions/{}.txt`.".format(side)
         )
     elif valid_entries:
         lines.append(

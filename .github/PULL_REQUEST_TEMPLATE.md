@@ -17,14 +17,10 @@ proposals. -->
 they auto-close on merge. -->
 
 ## Validation
-<!-- Required for any change touching `sources/pins/*` or `sources/*_urls.txt`.
-The CI test workflow runs the validator and shellcheck automatically; please
-also run them locally. -->
+<!-- The public CI test workflow runs the submission validator automatically.
+Run it locally when changing validation or submission handling. -->
 
-- [ ] `python3 pipeline/tests/python/test_validate.py` passes
-- [ ] `bash pipeline/tests/bash/test_reconcile_guard.sh` passes
-- [ ] `python3 pipeline/extract-pins.py` reports 0 rejections (only if you
-      changed `sources/pins/*`)
+- [ ] `python3 .github/scripts/tests/test_validate.py -v` passes
 
 ## Pin / list provenance
 <!-- For pin additions: short note on why each entry deserves to be pinned.

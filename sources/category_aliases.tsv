@@ -1,0 +1,19 @@
+# alias	canonical
+ads-tracking	ads
+advertising	ads
+adserver	ads
+adservers	ads
+tracker	tracking
+trackers	tracking
+telemetry	tracking
+malware-download	malware
+malware-distribution	malware
+social-engineering	phishing
+social-engineering-extended-coverage	phishing
+phishing-attacks	phishing
+phish	phishing
+botnet-cc	c2
+botnet-c-c	c2
+command-and-control	c2
+cryptomining	crypto
+cryptocurrency	crypto

@@ -8,7 +8,7 @@ body:
       value: |
         Use this for domains that should always be allowed (e.g. mainstream services
         accidentally blocked by upstream lists). The validator + a maintainer review
-        applies; on approval, entries land in `sources/pins/allow.txt`.
+        applies; on approval, entries are staged in `submissions/allow.txt`.
   - type: textarea
     id: domains
     attributes:

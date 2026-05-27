@@ -1,0 +1,14 @@
+# Manual block category campaign template.
+#
+# Copy this file to sources/manual-categories/<campaign-name>.txt and fill in
+# one category, one or more sources, and one entry per domain, URL, or IPv4.
+#
+# Only entries that also exist in public_block_lists are published in category
+# outputs. Source rows are kept here as the audit trail; output files stay flat.
+
+category: example-malware-campaign
+source: https://example.com/research/report
+source: internal ticket or analyst note
+entry: malicious.example.com
+entry: https://landing.example.net/path
+entry: 1.2.3.4

@@ -8,6 +8,7 @@ on:
     paths:
       - 'public_block_lists/**'
       - 'public_allow_lists/**'
+      - 'public_block_categories_lists/**'
   workflow_dispatch:
 
 concurrency:
@@ -23,7 +24,7 @@ jobs:
     timeout-minutes: 30
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Compute date tag
         id: tag
@@ -45,6 +46,12 @@ jobs:
             public_allow_lists/manifest.json \
             public_allow_lists/domains \
             public_allow_lists/ips
+
+          if [[ -f public_block_categories_lists/manifest.json ]]; then
+            tar -czf dist/aegis-block-category-lists.tar.gz \
+              public_block_categories_lists
+            cp public_block_categories_lists/manifest.json dist/block-categories-manifest.json
+          fi
 
           cp public_block_lists/manifest.json dist/block-manifest.json
           cp public_allow_lists/manifest.json dist/allow-manifest.json

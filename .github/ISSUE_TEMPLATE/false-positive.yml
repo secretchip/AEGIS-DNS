@@ -6,8 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Approved false-positive reports get added to `sources/pins/allow.txt`,
-        which guarantees the domain is allowed regardless of upstream block sources.
+        Approved false-positive reports are staged in `submissions/allow.txt`
+        for maintainer review before local pin integration.
   - type: textarea
     id: domains
     attributes:

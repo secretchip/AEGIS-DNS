@@ -10,8 +10,8 @@ body:
         For false-positive corrections, use the **🟢 Report false positive** form instead.
 
         After you submit, a validation bot will post a comment with the per-line result
-        (✓ valid / ✗ invalid + reason). A maintainer will then review the evidence
-        and apply the `approved` label to merge them into `sources/pins/block.txt`.
+        (valid / invalid + reason). If accepted, a maintainer applies `approved`
+        to open an auto-PR staging entries in `submissions/block.txt`.
   - type: textarea
     id: domains
     attributes:

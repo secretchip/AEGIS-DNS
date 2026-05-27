@@ -1,0 +1,20 @@
+# match_type	pattern	categories	notes
+# match_type: exact, contains, prefix, or regex.
+contains	urlhaus.abuse.ch	malware	URLhaus malware URL and host feeds
+contains	threatfox.abuse.ch	malware,c2	ThreatFox IOC feeds
+contains	feodotracker.abuse.ch	c2,malware	Feodo Tracker botnet C2 feeds
+contains	openphish.com	phishing	OpenPhish feed
+contains	phishtank.org	phishing	PhishTank feed
+contains	spamhaus	spam,malware,phishing	Spamhaus reputation datasets
+contains	stopforumspam.com	spam	StopForumSpam toxic domains
+contains	gambling.txt	gambling	Gambling source list
+contains	crypto.txt	crypto	Crypto-related source list
+contains	Prigent-Crypto	crypto	Crypto-related source list
+contains	malware	malware	Malware-labeled source path
+contains	phishing	phishing	Phishing-labeled source path
+contains	easyprivacy	tracking	EasyPrivacy tracking filters
+contains	tracking	tracking	Tracking-labeled source path
+contains	telemetry	tracking	Telemetry source path
+contains	adservers	ads	Ad server source path
+contains	adblock	ads	Ad-block source path
+contains	ads	ads	Ads-labeled source path

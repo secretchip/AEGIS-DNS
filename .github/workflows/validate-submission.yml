@@ -23,7 +23,8 @@ jobs:
     if: |
       github.event_name == 'issues'
       && (contains(toJSON(github.event.issue.labels.*.name), 'submission')
-          || contains(toJSON(github.event.issue.labels.*.name), 'false-positive'))
+          || contains(toJSON(github.event.issue.labels.*.name), 'false-positive')
+          || contains(toJSON(github.event.issue.labels.*.name), 'false-negative'))
     runs-on: ubuntu-latest
     timeout-minutes: 5
     outputs:
@@ -34,8 +35,8 @@ jobs:
       side: ${{ steps.run.outputs.side }}
       valid_path: ${{ steps.run.outputs.valid_path }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
@@ -43,6 +44,7 @@ jobs:
         id: run
         env:
           ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
           ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_LABELS: ${{ join(github.event.issue.labels.*.name, ',') }}
         run: |
@@ -87,7 +89,7 @@ jobs:
 
       - name: Stash validated entries for the approval step
         if: steps.run.outputs.has_valid == 'true'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: submission-${{ github.event.issue.number }}-valid
           path: ${{ steps.run.outputs.valid_path }}
@@ -109,8 +111,8 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
@@ -118,6 +120,7 @@ jobs:
         id: run
         env:
           ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
           ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_LABELS: ${{ join(github.event.issue.labels.*.name, ',') }}
         run: |
@@ -155,7 +158,7 @@ jobs:
 
       - name: Open PR with the appended entries
         if: steps.run.outputs.has_valid == 'true'
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v8
         with:
           commit-message: "submissions: append from issue #${{ github.event.issue.number }}"
           branch: auto/submission-${{ github.event.issue.number }}
@@ -185,8 +188,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
