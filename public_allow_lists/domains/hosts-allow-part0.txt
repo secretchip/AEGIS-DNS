@@ -1,17 +1,17 @@
 ##############################################################################
 # AEGIS-DNS published list — allow / domains
 # Chunk          : hosts-allow-part0.txt (1 of 1)
-# Lines in chunk : 20,433
+# Lines in chunk : 20,446
 #
-# Block domains  : 46,924,656 across 24 chunk(s)
-# Block IPs      : 265,746 across 1 chunk(s)
-# Allow domains  : 20,433 across 1 chunk(s)
+# Block domains  : 46,927,348 across 24 chunk(s)
+# Block IPs      : 268,760 across 1 chunk(s)
+# Allow domains  : 20,446 across 1 chunk(s)
 # Allow IPs      : 21 across 1 chunk(s)
 # Pinned (block) : 0
 # Pinned (allow) : 0
 #
-# Build started  : 2026-05-27T21:03:21Z
-# Build duration : 26m 19s
+# Build started  : 2026-05-28T08:55:30Z
+# Build duration : 44m 39s
 # Manifest       : https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_allow_lists/manifest.json
 ##############################################################################
 
@@ -60,6 +60,7 @@
 *.iobit.com
 *.ip6.arpa
 *.knowledgehut.com
+*.kundenserver.de
 *.leanplum.com
 *.licdn.cn
 *.licdn.com
@@ -107,9 +108,11 @@
 *.tiktokv.eu
 *.tmetrix.my.chick-fil-a.com
 *.ubuntu.com
+*.uceprotect.net
 *.ultraceofficial.com
 *.upc.pl
 *.virustotal.com
+*.wizzair.com
 *.zerotier.com
 *.zf.ro
 0-edge-chat.facebook.com
@@ -1292,6 +1295,7 @@ api.helpshift.com
 api.here.com
 api.heylink.com
 api.hostip.info
+api.individual.githubcopilot.com
 api.intsig.net
 api.ipify.org
 api.jakdojade.pl
@@ -2128,6 +2132,7 @@ bidv.vn
 bie.to
 bien.no
 bifrost-api.hotstar.com
+big.oisd.nl
 big.pt
 bigbank.ee
 bigcartel.com
@@ -2464,6 +2469,7 @@ bot.com.tw
 bote.me
 botemoda.com
 botman.ninja
+botvrij.eu
 boudie.link
 boudoirads.cc
 bougn.at
@@ -2913,6 +2919,7 @@ cdn.agilebits.com
 cdn.akubebas.com
 cdn.ampproject.org
 cdn.appdynamics.com
+cdn.arstechnica.net
 cdn.auth0.com
 cdn.bluebillywig.com
 cdn.branch.io
@@ -3985,7 +3992,6 @@ danskebank.dk
 danskebank.ee
 danskebank.se
 danskretursystem.dk
-dar.vin
 dardz.link
 dartsearch.net
 dasb.io
@@ -7219,6 +7225,7 @@ filesusr.com
 fileuseful.com
 fillboards.com
 filspay.co
+filters.hufilter.hu
 filz.fr
 fin-online.ru
 finance.yahoo.com
@@ -8438,6 +8445,7 @@ hokidana.vip
 hokie.co
 hokiku.link
 hokuyobank.co.jp
+hole.cert.pl
 hollyhockhill.com
 hollywoodreporter.com
 holvi.com
@@ -10002,7 +10010,6 @@ l.daoust.media
 l.ead.me
 l.enes.tech
 l.facebook.com
-l.jiosewa.com
 l.klarna.com
 l.lefigaro.fr
 l.linforme.com
@@ -12763,6 +12770,7 @@ otpbankdirekt.hu
 otpdirekt.ro
 otpsmart.com.ua
 otw-news.org
+otx.alienvault.com
 ou.af
 ou.gd
 oua.be
@@ -14155,6 +14163,7 @@ re.johnhughson.com
 reachlocal.com
 react-url-shortener-vert.vercel.app
 reactlink.com
+reactor.flro.org
 read.bi
 readb.io
 readdle.cmail20.com
@@ -17136,6 +17145,7 @@ thpsn.org
 thr.cm
 thrdl.es
 threatbook.cn
+threatfox.abuse.ch
 thrill.to
 thts.gg
 thumb.pr0gramm.com
@@ -17932,7 +17942,6 @@ uldox.com
 ulink.adjust.com
 ulmt.in
 ulnk.app
-ultimateaderaser.com
 ultra.bo
 ultraceofficial.com
 ultrashort.me
@@ -18147,7 +18156,6 @@ url.rw
 url.sae.digital
 url.smeirat.com
 url.smmizo.com
-url.sumanonline.com
 url.td
 url.techwarezen.com
 url.uog.edu
@@ -18240,6 +18248,7 @@ urlgit.com
 urlgl.com
 urlgle.com
 urlgo.ca
+urlhaus.abuse.ch
 urlhawk.com
 urlhub-rouge.vercel.app
 urlhub.ai
@@ -19206,7 +19215,6 @@ w.idg.de
 w.webicon.co.za
 w.wiki
 w0o.de
-w0of-woof.com
 w1p.fr
 w2link.com
 w2u.io
@@ -19376,6 +19384,7 @@ westerwaldbank.de
 westkreis.de
 weston.ns.cloudflare.com
 westpac.co.nz
+westus-0.in.applicationinsights.azure.com
 wetrack.online
 wevpn.com
 weworkers.io
@@ -19465,6 +19474,7 @@ wix.com
 wixsite.com
 wizardsinvest.ru
 wizink.es
+wizzair.com
 wkf.ms
 wkpwr.be
 wl.co
@@ -19651,6 +19661,7 @@ www.communitybankbd.com
 www.coronavirus.gov
 www.criterionm.com
 www.crowdsec.net
+www.crowdstrike.com
 www.cursbnr.ro
 www.cvcflbd.com
 www.datadoghq-browser-agent.com
@@ -19845,6 +19856,7 @@ www.rcollard.com
 www.re-store.ru
 www.real-markt.de
 www.realitatea.net
+www.recordedfuture.com
 www.reddit.com
 www.refersion.com
 www.rfa.org
@@ -19866,6 +19878,7 @@ www.siblbd.com
 www.sjiblbd.com
 www.sonalibank.com.bd
 www.southeastbank.com.bd
+www.spamhaus.com
 www.squaretrade.com
 www.standardbankbd.com
 www.standardchartered.com

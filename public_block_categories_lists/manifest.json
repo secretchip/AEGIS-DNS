@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-27T21:32:51Z",
+  "generated_at": "2026-05-28T09:44:11Z",
   "type": "block",
   "scope": "categories",
-  "total_lines": 3509202,
-  "category_count": 8,
-  "conflict_count": 535044,
+  "total_lines": 3193262,
+  "category_count": 7,
+  "conflict_count": 347695,
   "provider_modules": {
     "local-seeds": {
       "accepted": 649,
@@ -22,7 +22,7 @@
       "exit_code": 0
     },
     "source-provenance": {
-      "accepted": 4096785,
+      "accepted": 3453132,
       "rejected": 0,
       "cached_replayed": 0,
       "cached_suppressed": 0,
@@ -32,9 +32,9 @@
   "categories": [
     {
       "name": "ads",
-      "total_lines": 1924532,
-      "domains_lines": 1918796,
-      "ips_lines": 5736,
+      "total_lines": 1752757,
+      "domains_lines": 1752122,
+      "ips_lines": 635,
       "parts": [
         {
           "kind": "domains",
@@ -45,24 +45,6 @@
           "kind": "ips",
           "name": "ips-block-ads-part0.txt",
           "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/ips/ads/ips-block-ads-part0.txt"
-        }
-      ]
-    },
-    {
-      "name": "c2",
-      "total_lines": 58379,
-      "domains_lines": 58302,
-      "ips_lines": 77,
-      "parts": [
-        {
-          "kind": "domains",
-          "name": "hosts-block-c2-part0.txt",
-          "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/domains/c2/hosts-block-c2-part0.txt"
-        },
-        {
-          "kind": "ips",
-          "name": "ips-block-c2-part0.txt",
-          "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/ips/c2/ips-block-c2-part0.txt"
         }
       ]
     },
@@ -99,9 +81,9 @@
     },
     {
       "name": "malware",
-      "total_lines": 1183470,
-      "domains_lines": 1176234,
-      "ips_lines": 7236,
+      "total_lines": 1170924,
+      "domains_lines": 1168853,
+      "ips_lines": 2071,
       "parts": [
         {
           "kind": "domains",
@@ -117,8 +99,8 @@
     },
     {
       "name": "phishing",
-      "total_lines": 2993,
-      "domains_lines": 1386,
+      "total_lines": 2678,
+      "domains_lines": 1071,
       "ips_lines": 1607,
       "parts": [
         {
@@ -135,15 +117,10 @@
     },
     {
       "name": "spam",
-      "total_lines": 74532,
-      "domains_lines": 72925,
-      "ips_lines": 1607,
+      "total_lines": 1605,
+      "domains_lines": 0,
+      "ips_lines": 1605,
       "parts": [
-        {
-          "kind": "domains",
-          "name": "hosts-block-spam-part0.txt",
-          "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/domains/spam/hosts-block-spam-part0.txt"
-        },
         {
           "kind": "ips",
           "name": "ips-block-spam-part0.txt",
@@ -153,8 +130,8 @@
     },
     {
       "name": "tracking",
-      "total_lines": 10379,
-      "domains_lines": 10369,
+      "total_lines": 10381,
+      "domains_lines": 10371,
       "ips_lines": 10,
       "parts": [
         {
@@ -176,18 +153,9 @@
       "kind": "domains",
       "name": "hosts-block-ads-part0.txt",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/domains/ads/hosts-block-ads-part0.txt",
-      "lines": 1918796,
-      "bytes": 34157729,
-      "sha256": "1272d727f2f52edfc7e3d9d752910351bbbda3ce85919d96bc97436898b08046"
-    },
-    {
-      "category": "c2",
-      "kind": "domains",
-      "name": "hosts-block-c2-part0.txt",
-      "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/domains/c2/hosts-block-c2-part0.txt",
-      "lines": 58302,
-      "bytes": 1266459,
-      "sha256": "8b94cfc1a5b038c4ede3188bf061e861907fe2093f4b65c82ba8a9d89927e9d3"
+      "lines": 1752122,
+      "bytes": 30690790,
+      "sha256": "436241c05fc4532f3b37cc518c0339d17dd32e51dba98dfae94a8cb4fd910ad0"
     },
     {
       "category": "crypto",
@@ -212,54 +180,36 @@
       "kind": "domains",
       "name": "hosts-block-malware-part0.txt",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/domains/malware/hosts-block-malware-part0.txt",
-      "lines": 1176234,
-      "bytes": 25255631,
-      "sha256": "7460885788cdc34e99077a5d0929e551b7b67af9f538d7bb6b7ef22cd31bd80e"
+      "lines": 1168853,
+      "bytes": 25099250,
+      "sha256": "501742ff0f50b85c92262848db957c6f9ec1cf479a2cb7f0121aca335725d355"
     },
     {
       "category": "phishing",
       "kind": "domains",
       "name": "hosts-block-phishing-part0.txt",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/domains/phishing/hosts-block-phishing-part0.txt",
-      "lines": 1386,
-      "bytes": 26444,
-      "sha256": "0e8539b8b9a721019757d5b246ce2f5906e7caf77155e43df8cebd2addd44205"
-    },
-    {
-      "category": "spam",
-      "kind": "domains",
-      "name": "hosts-block-spam-part0.txt",
-      "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/domains/spam/hosts-block-spam-part0.txt",
-      "lines": 72925,
-      "bytes": 1119824,
-      "sha256": "373cdf528ec14f7655a815c0da5adcdeb63081bad6b966657e8350992046aafa"
+      "lines": 1071,
+      "bytes": 19641,
+      "sha256": "c78bad8f29554a7cbbb84dd66335566c63e224b90b27099edb034bb82fd2e908"
     },
     {
       "category": "tracking",
       "kind": "domains",
       "name": "hosts-block-tracking-part0.txt",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/domains/tracking/hosts-block-tracking-part0.txt",
-      "lines": 10369,
-      "bytes": 189236,
-      "sha256": "66ce8891597569dc5fea41341305900d4ee14d3e36d680b60689095e35f2cf73"
+      "lines": 10371,
+      "bytes": 189276,
+      "sha256": "c445d6d6411478350aa91f411564db38b064df23e144389cca664996af1c27c5"
     },
     {
       "category": "ads",
       "kind": "ips",
       "name": "ips-block-ads-part0.txt",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/ips/ads/ips-block-ads-part0.txt",
-      "lines": 5736,
-      "bytes": 81977,
-      "sha256": "a10982c39eaa4c3a7a1e72dfc4958b2cd4b4eeffd915849ee6e52260093275bb"
-    },
-    {
-      "category": "c2",
-      "kind": "ips",
-      "name": "ips-block-c2-part0.txt",
-      "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/ips/c2/ips-block-c2-part0.txt",
-      "lines": 77,
-      "bytes": 1081,
-      "sha256": "140924428997f55e5adc9b815356487451dc5b54e33246cbfcb2b82e01e9a6a6"
+      "lines": 635,
+      "bytes": 9075,
+      "sha256": "799a0f48de4c493a564da73461b25b1cf0c50c9e4583da4aa6875b7d7fd71065"
     },
     {
       "category": "crypto",
@@ -275,9 +225,9 @@
       "kind": "ips",
       "name": "ips-block-malware-part0.txt",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/ips/malware/ips-block-malware-part0.txt",
-      "lines": 7236,
-      "bytes": 100906,
-      "sha256": "1dc745deee175f5824590e1acdf9dc8bf91df6d9a2ed0c372d45a0d78d8d9626"
+      "lines": 2071,
+      "bytes": 27110,
+      "sha256": "463754782e22f649911ac44c133bf20428eade479f1554ff69257e78fb30467e"
     },
     {
       "category": "phishing",
@@ -293,9 +243,9 @@
       "kind": "ips",
       "name": "ips-block-spam-part0.txt",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_categories_lists/ips/spam/ips-block-spam-part0.txt",
-      "lines": 1607,
-      "bytes": 20486,
-      "sha256": "c425a86640d4d8f4d8a15957d7ee8a00161e5630068f1b5eb5fe0650b0281934"
+      "lines": 1605,
+      "bytes": 20457,
+      "sha256": "29f0039bca3915167b35f4474cc5d0bbd2b7c777e84438eda79a49fbe24f0f8b"
     },
     {
       "category": "tracking",

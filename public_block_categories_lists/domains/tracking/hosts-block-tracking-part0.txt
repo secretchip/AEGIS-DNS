@@ -1130,6 +1130,7 @@ app.airtrack.jp
 app.ardalio.com
 app.carnow.com
 app.chat.xiaomi.net
+app.clickfunnels.com
 app.convertbox.com
 app.crossengage.io
 app.kuvio.io
@@ -8945,6 +8946,7 @@ track.17goforward.com
 track.360playvid.info
 track.91app.io
 track.adabra.com
+track.addevent.com
 track.adspire.io
 track.aimroas.com
 track.amebame.com
