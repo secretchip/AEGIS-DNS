@@ -1,20 +1,3 @@
-##############################################################################
-# AEGIS-DNS published list — block / domains
-# Chunk          : hosts-block-part23.txt (24 of 24)
-# Lines in chunk : 927,348
-#
-# Block domains  : 46,927,348 across 24 chunk(s)
-# Block IPs      : 268,760 across 1 chunk(s)
-# Allow domains  : 20,446 across 1 chunk(s)
-# Allow IPs      : 21 across 1 chunk(s)
-# Pinned (block) : 0
-# Pinned (allow) : 0
-#
-# Build started  : 2026-05-28T08:55:30Z
-# Build duration : 44m 39s
-# Manifest       : https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/manifest.json
-##############################################################################
-
 y1kram.launches.appsflyersdk.com
 y1krg1gen6p.yqi71w58zyi9hwk3yb6k5.cfd
 y1krrv.top
@@ -36437,7 +36420,6 @@ yadi-corp.com
 yadi-stila.com
 yadi.com.tw
 yadi.live
-yadi.sk
 yadi.world
 yadi3e.com
 yadi4.com.cn
@@ -37084,7 +37066,6 @@ yadroseti.ru
 yadrs.lol
 yadrutas.com
 yads-diking-goony.fun
-yads.c.yimg.jp
 yads.tech
 yads.yahoo.co.jp
 yads.yjtag.yahoo.co.jp
@@ -40591,14 +40572,12 @@ yahoo.cm
 yahoo.cn
 yahoo.co
 yahoo.co.hk
-yahoo.co.jp
 yahoo.co.kr
 yahoo.co.uk.inboxloadnb.bar
 yahoo.co.uk.mobilepreviewt.icu
 yahoo.co.uk.serviceloadbk.bar
 yahoo.co.ve
 yahoo.cojp.jp
-yahoo.com
 yahoo.com-account-update.transformate.co
 yahoo.com.bd
 yahoo.com.bt
@@ -53285,7 +53264,6 @@ yameals.com
 yameamatcha.com
 yameaswim.com
 yamebia.com
-yamechanic.com
 yamecouture.com
 yamecw4014.top
 yamed-advisory.com
@@ -57048,7 +57026,6 @@ yandex.re
 yandex.realty
 yandex.rest
 yandex.ro
-yandex.ru
 yandex.ru.com
 yandex.ru.net
 yandex.rw
@@ -125201,7 +125178,6 @@ yellowpages.bt
 yellowpages.chat
 yellowpages.co
 yellowpages.co.nz
-yellowpages.com
 yellowpages.com.102.112.2o7.net
 yellowpages.com.bd
 yellowpages.com.bi
@@ -126365,7 +126341,6 @@ yelp.co
 yelp.co.nz
 yelp.co.uk
 yelp.co.ve
-yelp.com
 yelp.com.au
 yelp.com.bd
 yelp.com.br
@@ -185530,7 +185505,6 @@ yimfnge.sbs
 yimfszu.cn
 yimft.vip
 yimfuyw.life
-yimg.com
 yimg.jp
 yimgcdn.com
 yimgg.art
@@ -236596,7 +236570,6 @@ yoakyproduction.com
 yoaliarenas.com
 yoalig.com
 yoalix.com
-yoalizer.com
 yoallenxy.com
 yoalma.com
 yoalpha.com
@@ -252564,7 +252537,6 @@ yon-studio.com
 yon-ti.com
 yon-trade.com
 yon.dedspac.ru
-yon.ir
 yon.oss-ap-southeast-1.aliyuncs.com
 yon.quest
 yon.skin
@@ -266197,7 +266169,6 @@ yosp.app
 yosp.cc
 yosp.cloud
 yospace.co.uk
-yospace.com
 yospace.net
 yospace.top
 yospace.us
@@ -267351,7 +267322,6 @@ yotta.scrolller.com
 yotta.services
 yotta9grid.top
 yottaa.com
-yottaa.net
 yottaads.com
 yottaagent.com
 yottaagi.com
@@ -271929,7 +271899,6 @@ youboozeho.shop
 youboplay.com
 youbopt.com
 youbopto.net
-youborafds01.com
 youboranqs01.com
 youboranqs02.com
 youborn-porno.blogspot.com
@@ -280213,7 +280182,6 @@ youku.chickcn.co
 youku.chuansuo.co
 youku.chuansuo.mobi
 youku.chuansuoacc.co
-youku.com
 youku.cyou
 youku.earth
 youku.fancn.mobi
@@ -322881,7 +322849,6 @@ youronlinecasinoguide.com
 youronlinecasinoguide.sitew.de
 youronlinechecking.com
 youronlinechoice.eu
-youronlinechoices.com
 youronlinechoiceseu01.wt-eu02.net
 youronlinechoise.eu
 youronlinechoises.eu
@@ -338218,7 +338185,6 @@ youtu-be.top
 youtu-bettt-topmasterrr-7889524.com
 youtu-google.com.cn
 youtu-medical.com
-youtu.be
 youtu.be.cracks.me.uk
 youtu.bet
 youtu.cm.admaster.com.cn
@@ -338786,7 +338752,6 @@ youtube-net.com
 youtube-netroptic.top
 youtube-newscompilation.com
 youtube-noads.com
-youtube-nocookie.com
 youtube-nodifyx.top
 youtube-notice.net
 youtube-ok.online
@@ -339215,7 +339180,6 @@ youtube.co
 youtube.co.bi
 youtube.co.pl
 youtube.co.ve
-youtube.com
 youtube.com.bd
 youtube.com.bi
 youtube.com.bt
@@ -340510,7 +340474,6 @@ youtubehub.online
 youtubehub.store
 youtubehunt.com
 youtubehunter.blog75.fc2.com
-youtubei.googleapis.com
 youtubei.icu
 youtubei.pro
 youtubei.qpon
@@ -340583,7 +340546,6 @@ youtubekemp3.io
 youtubekickstart.com
 youtubekides.com
 youtubekids-joyfulenglish.com
-youtubekids.com
 youtubekids.kr
 youtubekids.pro
 youtubekids.tv
@@ -343888,7 +343850,6 @@ youwechat.online
 youwecup.com
 youweddingdress.com
 youweddingstudio.com
-youweepingt.org
 youwefoo.ru
 youweghvosd.top
 youwei-china.com
@@ -348696,7 +348657,6 @@ yoyo.i105.info
 yoyo.in.net
 yoyo.ltd
 yoyo.my.id
-yoyo.org
 yoyo.qq.com
 yoyo.sixeven.com
 yoyo.surf
@@ -373254,7 +373214,6 @@ yt2y7o8vi.garden
 yt2z.org
 yt3-k.com
 yt3.click
-yt3.ggpht.com
 yt3.org
 yt3.xin
 yt30og.com
@@ -375204,7 +375163,6 @@ ytech.com.bd
 ytech.ir
 ytech.online
 ytech.org.tr
-ytechb.com
 ytechchain.com
 ytechdev.ch
 ytechhub.com
@@ -376505,7 +376463,6 @@ ytimee.click
 ytimenr.cfd
 ytimes.com
 ytimg.baligofood.com
-ytimg.com
 ytimg.forum
 ytimg.l.google.com
 ytimg2.com
@@ -379009,7 +378966,6 @@ yts.moatads.com
 yts.moatads.comyts.moatads.com
 yts.movie
 yts.ms
-yts.mx
 yts.my.id
 yts.pm
 yts.proxybay.top
@@ -390921,7 +390877,6 @@ yueliangcf.com
 yueliangdao.cc
 yueliangdashabi.lol
 yueliangopenaiecg.direct.quickconnect.cn
-yueliangopenaiecg.direct.quickconnect.to
 yueliangshen.cn
 yueliangshi.com
 yueliangwan.com.cn
@@ -447745,7 +447700,6 @@ yychan.shop
 yychandymanservices.com
 yychanel.com
 yychao.com
-yychatgpt0521gmail.direct.quickconnect.to
 yychaxun.net
 yychayi.com
 yychcloud.com
@@ -467128,10 +467082,8 @@ z.cdn.trafficbass.com
 z.cdn.trafficdok.com
 z.cdn.trafficlide.com
 z.cdn.traffmovie.com
-z.cdn.turner.com
 z.cdn.umh.ua
 z.cdn.xbeat.space
-z.cdp-dev.cnn.com
 z.centrum-aparatow-sluchowych.pl
 z.ceotrk.com
 z.ceriawlatogl88.com
@@ -490039,7 +489991,6 @@ za.xavv.ru
 za.zainmahalbd.com
 za.zalo.me
 za.zapps.vn
-za.zdn.vn
 za.zeroredirect1.com
 za.zingmp3.vn
 za.zingnews.vn
@@ -513218,7 +513169,6 @@ zalo.club
 zalo.com.cn
 zalo.forum
 zalo.info
-zalo.me
 zalo.nghiepvubinhduong.edu.vn
 zalo.online
 zalo.pics
@@ -513259,7 +513209,6 @@ zaloads-480.zdn.vn
 zaloai.pro
 zaloando.us
 zaloapp.ads.zdn.vn
-zaloapp.com
 zaloapp.io.vn
 zaloara.com
 zaloas.shop
@@ -524828,7 +524777,6 @@ zap.api.br
 zap.art.br
 zap.autos
 zap.bd
-zap.buzz
 zap.cdn.zynga.com
 zap.ceo
 zap.co.il
@@ -529113,7 +529061,6 @@ zapto.app
 zapto.com
 zapto.dev.br
 zapto.live
-zapto.org
 zapto.ru
 zapto.site
 zapto.yachts
@@ -559910,7 +559857,6 @@ zdbaike.com
 zdbano.com
 zdbaojia.com
 zdbattery.cn
-zdbb.net
 zdbb.netshelter.net
 zdbb.shop
 zdbb001o.lol
@@ -562345,7 +562291,6 @@ zdne.rogagot.com
 zdnet-uru.info
 zdnet.be.intellitxt.com
 zdnet.co.kr
-zdnet.com
 zdnet.com.ar
 zdnet.com.cn
 zdnet.de
@@ -571266,7 +571211,6 @@ zee.bu.fi
 zee.co.com
 zee.community
 zee.cool
-zee.cws.conviva.com
 zee.delivery
 zee.esp.br
 zee.foundation
@@ -586877,7 +586821,6 @@ zenapressurewashing.com
 zenapro.review
 zenaproject.com
 zenaprop.com.de
-zenaps.com
 zenapse.com.de
 zenapta.fr
 zenaptrixy.world
@@ -588146,7 +588089,6 @@ zenccross.com
 zenccross.info
 zenccross.online
 zencdc.com
-zencdn.net
 zencdn.online
 zence.cn
 zence.co
@@ -589070,7 +589012,6 @@ zendesk-training.nl
 zendesk-trustwallet.info
 zendesk-trustwallet.org
 zendesk.api.br
-zendesk.com
 zendesk.com.bd
 zendesk.com.ve
 zendesk.company
@@ -619443,7 +619384,6 @@ zero-algo-feed.com
 zero-algorithm.com
 zero-alkohol.de
 zero-amsterdam.com
-zero-analytics.epm-iga.projects.epam.com
 zero-ani-mania.net
 zero-animation.net
 zero-aoba-dc.com
@@ -639754,7 +639694,6 @@ zeustotos.com
 zeustotowap.pages.dev
 zeustotoxgcr11.sbs
 zeustr.space
-zeustracker.abuse.ch
 zeustrade.io
 zeustrader.io
 zeustradinghub.site
@@ -717906,7 +717845,6 @@ ziffaraed.live
 ziffbx.com
 ziffchat.com
 ziffdavis-d.openx.net
-ziffdavis.com
 ziffdavis697674298673.moatads.com
 ziffdavisb2b.com
 ziffdavisdesktoplinux.112.2o7.net
@@ -718942,7 +718880,6 @@ zighde.com
 zighg.com
 zighnead.info
 zighra.in
-zight-shortner.replit.app
 zight.nu
 zight.online
 zighue.com.br
@@ -723126,7 +723063,6 @@ zillow.bond
 zillow.cfd
 zillow.co.il
 zillow.co.in
-zillow.com
 zillow.cyou
 zillow.firm.in
 zillow.freetcp.com
@@ -767287,7 +767223,6 @@ zmagonal.live
 zmagrp.com
 zmagrpdigital.com
 zmagry.com
-zmags.com
 zmah.store
 zmahi.me
 zmahmud.com
@@ -768032,7 +767967,6 @@ zmctf888.com
 zmctoys.com
 zmctpf.lol
 zmctrack.com
-zmctrack.net
 zmcuaa.top
 zmcuf.autos
 zmcui-group.tech
@@ -776165,7 +776099,6 @@ znct168.com
 znctema2.online
 zncthivth1wia6lwf-bcbsaz.siteintercept.qualtrics.com
 znctoxwdw6mwffwxf-educationinsight.siteintercept.qualtrics.com
-znctrack.net
 znctrsbrlzhqwi9af-uniteddigital.siteintercept.qualtrics.com
 znctstcedc1rc1tnw-arvest.siteintercept.qualtrics.com
 zncu13tr8d8efr7dw-atge.siteintercept.qualtrics.com
@@ -790211,7 +790144,6 @@ zoll-m-series-user-manual.expon.cfd
 zoll-mailhog.staging.accorin.us
 zoll-manager.de
 zoll-manufaktur.com
-zoll-mark.direct.quickconnect.to
 zoll-match-maker.com
 zoll-mediation.net
 zoll-medical.com
@@ -809505,7 +809437,6 @@ zoom.tokalink.id
 zoom.travel
 zoom.uk09web.uk
 zoom.uk42w.us
-zoom.us
 zoom.us.1ax.us
 zoom.us.3cm.us
 zoom.us.ez2.us
@@ -864783,7 +864714,6 @@ zuitstories.com
 zuitsuits.com
 zuitsy.com
 zuitt.com
-zuitte.com
 zuitu.com
 zuitu.net
 zuituan.net
