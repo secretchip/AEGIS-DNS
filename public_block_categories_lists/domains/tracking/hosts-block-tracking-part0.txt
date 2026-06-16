@@ -5527,6 +5527,7 @@ metrics-dra.dt.hicloud.com
 metrics-fe-na1.hubspot.com
 metrics-ingress-web.svc.vinted.com
 metrics-logger.spot.im
+metrics-web.help
 metrics.apartments.com
 metrics.api.drift.com
 metrics.api.yle.fi
@@ -5895,6 +5896,7 @@ ndg.io
 neatstats.com
 nedstatbasic.net
 needle.com
+nehalist.io
 neocounter.neoworx-blog-tools.net
 neon-lab.com
 net-filter.com

@@ -1,17 +1,17 @@
 ##############################################################################
 # AEGIS-DNS published list — allow / domains
 # Chunk          : hosts-allow-part0.txt (1 of 1)
-# Lines in chunk : 22,031
+# Lines in chunk : 22,034
 #
-# Block domains  : 47,260,910 across 24 chunk(s)
-# Block IPs      : 283,676 across 1 chunk(s)
-# Allow domains  : 22,031 across 1 chunk(s)
+# Block domains  : 47,263,046 across 24 chunk(s)
+# Block IPs      : 286,368 across 1 chunk(s)
+# Allow domains  : 22,034 across 1 chunk(s)
 # Allow IPs      : 21 across 1 chunk(s)
 # Pinned (block) : 0
 # Pinned (allow) : 0
 #
-# Build started  : 2026-06-16T07:16:42Z
-# Build duration : 41m 52s
+# Build started  : 2026-06-16T14:59:24Z
+# Build duration : 23m 8s
 # Manifest       : https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_allow_lists/manifest.json
 ##############################################################################
 
@@ -72,6 +72,7 @@
 *.gitlab.com
 *.glovoapp.com
 *.gmail.com
+*.googlevideo.com
 *.heygen.com
 *.hichina.com
 *.ido.ro
@@ -1607,6 +1608,7 @@ applnx.com
 apply-here.live
 appna.me
 appp.fyi
+apps.auxxxilium.tech
 apps.cybonline.co.uk
 apps.skype.com
 appsbackup-pa.clients6.google.com
@@ -1907,7 +1909,6 @@ azerturkbank.az
 azhfoom.com
 azipurl.app
 azipurl.com
-azl.one
 azlink.me
 azr.link
 azshrtr.com
@@ -8206,6 +8207,7 @@ gettolink.net
 gettr.im
 geturls.net
 getus.at
+gew4-spclient.spotify.com
 gf.to
 gfe.nvidia.com
 gfl2exilium.link
@@ -13247,7 +13249,6 @@ occ.li
 ock.cn
 ocn.ne.jp
 ocsp.apple.com
-ocsp.comodoca.com
 ocsp.comodoca4.com
 ocsp.digicert.com
 ocsp.godaddy.com
@@ -13255,11 +13256,9 @@ ocsp.int-x1.letsencrypt.org
 ocsp.int-x2.letsencrypt.org
 ocsp.int-x3.letsencrypt.org
 ocsp.int-x4.letsencrypt.org
-ocsp.pki.goog
 ocsp.rootg2.amazontrust.com
 ocsp.sca1b.amazontrust.com
 ocsp.ssl.com
-ocsp.usertrust.com
 ocsp.verisign.com
 ocsp2.apple.com
 octafx.com
@@ -14254,6 +14253,7 @@ polamax.win
 polbb.eu
 polgaribank.hu
 policy.samsungcloud.com
+policy.samsungpass.com
 politi.co
 politico.com
 polka.typekit.com
@@ -14797,6 +14797,7 @@ r.srvtrck.com
 r.us-east-1.awstrack.me
 r0e.org
 r0m.me
+r2---sn-ajf5f5-53.googlevideo.com
 r2c.one
 r2c.ovh
 r2links.com
@@ -15535,16 +15536,19 @@ rr1---sn-h0jeenld.gvt1.com
 rr1---sn-uvt5-ajwl.googlevideo.com
 rr1---sn-uvt5-ajws.googlevideo.com
 rr1---sn-uvt5-ajwz.googlevideo.com
+rr2---sn-ajf5f5-53.googlevideo.com
 rr2---sn-f5f7knee.googlevideo.com
 rr2---sn-gqn-vu2e7.gvt1.com
 rr2---sn-gqn-vu2el.gvt1.com
 rr2---sn-uvt5-ajwl.googlevideo.com
+rr2---sn-uvt5-ajws.googlevideo.com
 rr3---sn-2gb7sne6.gvt1.com
 rr3---sn-2of5f5-5p.googlevideo.com
 rr3---sn-f5f7lnl7.googlevideo.com
 rr3---sn-gqn-vu2e.gvt1.com
 rr3---sn-gqn-vu2e7.gvt1.com
 rr3---sn-h0jeened.gvt1.com
+rr3---sn-uvt5-ajwz.googlevideo.com
 rr4---sn-aj2gb5-5j.gvt1.com
 rr4---sn-h0jeln7e.gvt1.com
 rr5---sn-aj2gb5-5j.gvt1.com
@@ -16479,7 +16483,6 @@ shortenworld.com
 shortenx.com
 shorter.gg
 shorter.io.vn
-shorter.me
 shorterall.com
 shorterflix.com
 shorterin.com
@@ -17080,7 +17083,6 @@ smslinkly.com
 smsng.news
 smsng.us
 smst.ca
-smsu.io
 smtp.mail.yahoo.com
 smtps.uhserver.com
 smtvj.com
@@ -17552,6 +17554,7 @@ spk-vorpommern.de
 spk-westholstein.de
 spk-zwickau.de
 spk.st
+spk7.imnks.com
 spkam.de
 spked.de
 spkeo.de
