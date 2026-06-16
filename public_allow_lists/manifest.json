@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-28T09:44:11Z",
+  "generated_at": "2026-06-16T08:01:54Z",
   "type": "allow",
-  "total_lines": 20467,
+  "total_lines": 22052,
   "parts": [
     {
       "name": "hosts-allow-part0.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_allow_lists/domains/hosts-allow-part0.txt",
-      "lines": 20446,
-      "sha256": "4e80173db946de66562b78403aa1bedead34396057169a63de5fb82c616bac4c"
+      "lines": 22031,
+      "sha256": "97b9f39fff72423fa64b47ea8682f7843348d33eb552368a7c48d6d2ad5cad27"
     },
     {
       "name": "ips-allow-part0.txt",
       "kind": "ips",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_allow_lists/ips/ips-allow-part0.txt",
       "lines": 21,
-      "sha256": "dbb7128e766c0e6a9dcc2e054a04284bf2a1bcf8559437da4b56f409336f8ed1"
+      "sha256": "20aa38d015f49002bacab4f80b213a99a5b8335d9b80f2d063277ec1b3a4e357"
     }
   ]
 }
