@@ -8,7 +8,7 @@
 #   MAX_FAILURES             consecutive-failure threshold (default 5)
 #   TECHNITIUM_API_TOKEN     admin token for Technitium API; if unset, the
 #                            pin-sync stage skips and uses existing pin files
-#   TECHNITIUM_HOST          default https://aegis.dns.secretchip.net:53444
+#   TECHNITIUM_HOST          default https://aegis1.dns.secretchip.net:53444
 #   TECHNITIUM_INSECURE_SSL  "true" to skip TLS verification (only if you
 #                            know why you're doing it)
 #   DROP_THRESHOLD_{BLOCK,ALLOW}  per-type drop % limits (defaults: see CLAUDE.md)
@@ -29,6 +29,13 @@
 #                         net effect is that those domains stop being blocked.
 
 set -euo pipefail
+
+# Byte collation for every stage. sort/comm/join must agree on ordering across
+# the whole pipeline: the chunks written by dedupe.sh are read back by
+# changelog.sh's comm, and a UTF-8 collation (which ignores '.' at the primary
+# level) makes those two disagree. LC_COLLATE rather than LC_ALL so LC_CTYPE
+# stays UTF-8 and the Python stages keep handling IDN domains unchanged.
+export LC_COLLATE=C
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ROOT_DIR="$(cd "${SCRIPT_DIR}/.." && pwd)"
@@ -87,3 +94,19 @@ python3 "$SCRIPT_DIR/consumer-config.py"
 python3 "$SCRIPT_DIR/build-category-lists.py"
 
 bash "$SCRIPT_DIR/changelog.sh"
+
+# Archive the pin files now that every consumer has read them: both dedupe
+# runs (each reads the opposite side's pins) and finalize-build.py (pin counts
+# for headers/badges/README). dedupe.sh deliberately leaves them in place.
+archive_pins() {
+  local type_ pin_file archive_dir
+  archive_dir="$ROOT_DIR/var/logs/pins/archive/$(date '+%Y%m%d-%H%M%S')"
+  for type_ in block allow; do
+    pin_file="$ROOT_DIR/var/intake/${type_}/input/input-${type_}-pins.txt"
+    [[ -f "$pin_file" ]] || continue
+    mkdir -p "$archive_dir"
+    mv "$pin_file" "$archive_dir/"
+  done
+  [[ -d "$archive_dir" ]] && echo "Archived pin file(s) to $archive_dir"
+}
+archive_pins
