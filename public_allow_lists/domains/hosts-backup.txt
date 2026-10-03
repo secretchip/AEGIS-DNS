@@ -159,13 +159,11 @@
 19081.com
 1a.co.nz
 1af.me
-1and1.com
 1and1.fr
 1bestlinks.net
 1cl.be
 1cl.me
 1clix.in
-1da.ir
 1drv.com
 1fashionable.xyz
 1fi.us
@@ -413,8 +411,6 @@ abcbank.de
 abcjr.me
 abehmtpn.dbl.spamhaus.org
 abl.agrocombank.com.ua
-abnamro.nl
-aboutcookies.org
 abr.ru
 abroad-links.com
 abstimmungstarten.de
@@ -560,7 +556,6 @@ akbars.ru
 akf.de
 akf24.de
 akhatry.com.np
-aklam.io
 akr.gr
 akses.digital
 aktfclick.com
@@ -919,7 +914,6 @@ aws.tl
 aws3.link
 awtgatp.com
 awy.to
-ax.phobos.apple.com.edgesuite.net
 axees.ir
 axiom.link
 axisbank.co.in
@@ -1022,7 +1016,6 @@ bankchb.com
 bankdki.co.id
 bankelita.ru
 bankfirst.com.au
-bankhapoalim.co.il
 bankhaus-hallbaum.de
 bankhaus-mayer.de
 bankhaus-plump.de
@@ -1077,7 +1070,6 @@ banners.netbet.gr
 banorte.com
 banpara.b.br
 banplusonline.com
-banquelaurentienne.ca
 barclaycard.de
 barclaycardus.com
 barkodi.com
@@ -1091,13 +1083,10 @@ bbacbank.com
 bbancobmg.com.br
 bbank.ru
 bbb.bz
-bbbank.de
 bbclick.baltbank.ru
 bbcrle.com
-bbr.ru
 bbss.softbankbb.co.jp
 bbva.com.co
-bbva.mx
 bbvaprovinet.provincial.com
 bc.bankdolinsk.ru
 bc.banksmb.ru
@@ -1360,7 +1349,6 @@ bn.aliorbank.pl
 bnb.gov.br
 bnc.ca
 bnc.nc
-bndes.gov.br
 bndfr.com
 bni.co.id
 bnishipping.com
@@ -1383,7 +1371,6 @@ bodenseebank.de
 bofo.ly
 bok.com.tw
 bola.mx
-bolagsverket.se
 boldphoto.link
 bolero.be
 bolter.chat
@@ -1548,7 +1535,6 @@ c4llxpress.org
 c4u.ovh
 c4x.ir
 c6.rip
-ca.gov
 ca24.credit-agricole.pl
 cabinet.altbb.ru
 cabinet.hcsbk.kz
@@ -1560,7 +1546,6 @@ cachecn.com
 cachecn.net
 cacheimg.gsp.ro
 cachor.ro
-caisse-epargne.fr
 caixa-enginyers.com
 caixaebankingonline.cgd.pt
 cal.link
@@ -1584,7 +1569,6 @@ capitecbank.co.za
 caplnk.com
 capmetro.app
 capp.to
-captive.apple.com
 card-transfer.tele2.ru
 card.cyberplat.ru
 card.uplati.ru
@@ -2090,7 +2074,6 @@ crobanet.croatiabanka.hr
 cronbank.de
 crourl.com
 crovio.pro
-cryoutcreations.eu
 crypsante.com
 cryptowidgets.site
 cs50.auth0.com
@@ -2238,7 +2221,6 @@ dashcam-h5.70mai.com
 dat.bio
 data-linkup.com
 data.here.com
-data.worldbank.org
 databrains.net
 datado.stellarium-web.org
 dataplicity.com
@@ -2327,7 +2309,6 @@ descuentoahora.com
 designcommerce.agency
 designrigs.com
 dettinger-bank.de
-deutsche-bank.es
 deutsche-bank.it
 deutsche-bank.pt
 deutsche-factoring.de
@@ -2351,7 +2332,6 @@ dgms.es
 dgshort.com
 dgt77.click
 dhakabankltd.com
-dhbbank.de
 dho.li
 dhrgl.ink
 dhu.li
@@ -2738,7 +2718,6 @@ emsland-mitte.de
 emu.li
 en.opensuse.org
 en.seedbacklink.com
-enable-javascript.com
 enbl.tech
 enclave.ua5v.com
 enco.link.cutestat.com
@@ -4777,7 +4756,6 @@ exchange.futureswap.com
 exchange.gemini.com
 exchange.globitex.com
 exi.bio
-eximbank.com.tw
 eximbank.com.vn
 expl.scot
 expr.ru
@@ -4820,7 +4798,6 @@ fa.gd
 facebookprofiles.com
 factoring.mb.seb.se
 factoring.seb.de
-fairfx.com
 faisanet.mib.com.mv
 famu.cc
 fansurl.com
@@ -4853,7 +4830,6 @@ fbwebpos.com
 fc-resources.fastcompany.com
 fcacycling.bike
 fd.cleantalk.org
-fda.gov
 fe-lb.tranquilli.org
 fe-static.deepseek.com
 fe.games
@@ -4982,7 +4958,6 @@ fossibot.pro
 fosterswiss.com
 fotolia.com
 fourshort.com
-fox13now.com
 foxbit.com.br
 foxc.art
 fpdownload.adobe.com
@@ -5178,7 +5153,6 @@ git.ad
 git.new
 github.hubspot.com
 gitmastery.com
-gitter.im
 give.bio
 givecharleston.org
 gj.al
@@ -5493,7 +5467,6 @@ haworld.net
 hazratyunus.com
 hb.aibank.co.il
 hb.unionbank.co.il
-hb2.bankleumi.co.il
 hc24.by
 hcibh.com
 hd-cdn.com
@@ -5960,7 +5933,6 @@ ic.venets-bank.ru
 ic.vitabank.spb.ru
 ic.zhilcredit.ru
 icabanken.se
-icann.org
 icb.kubantorgbank.ru
 icbc.com.ar
 ice.bio
@@ -6453,7 +6425,6 @@ kokobank.com
 kollylad.com
 konet.kovanica.hr
 koninfo.de
-kontist.com
 kontrakt.ua
 kontur-ca.ru
 kootah.me
@@ -6517,7 +6488,6 @@ ksk-stendal.de
 ksk-syke.de
 ksk-tuebingen.de
 ksk-tut.de
-ksk-verden.de
 ksk-vulkaneifel.de
 ksk-walsrode.de
 ksk-weilburg.de
@@ -6669,7 +6639,6 @@ leenker.io
 lef.link
 legacyecho-ai.com
 legalservices.help
-lehigh.edu
 leipziger-volksbank.de
 lekale.me
 lelien.de
@@ -7407,7 +7376,6 @@ meine-bank-no.de
 meine-hausbank.de
 meine-vrbank.de
 meine-vvb.de
-meine.postbank.de
 meinevolksbank.de
 meinkonto.tfbank.de
 melchiorbrenneman.com
@@ -7437,7 +7405,6 @@ meta.plex.bz
 meta.plex.tv
 metabankonline.com.ua
 meterlinks.com
-metrobankonline.co.uk
 metroqr.com
 metzler.com
 meu.inss.gov.br
@@ -7692,7 +7659,6 @@ my.europlanbank.ru
 my.firewalla.com
 my.helaba.bank
 my.isc2.org
-my.jcb.co.jp
 my.k-bnk.ru
 my.letobank.ru
 my.morskoybank.com
@@ -8046,7 +8012,6 @@ ocsp.verisign.com
 ocsp2.apple.com
 ocurto.com
 oddo-bhf.com
-oddo.fr
 odemegecidi.bkm.com.tr
 odinurl.com
 ofc.ru
@@ -8298,7 +8263,6 @@ op.fi
 op2.us
 opelbank.de
 openapi.lenovo.com
-openbank.es
 openbank.ru
 openbio.link
 openmediavault.github.io
@@ -8366,7 +8330,6 @@ overthewire.org
 ovmro.uk
 owalska.com
 owly.site
-ox.ac.uk
 oxfordjournals.org
 oxo.us
 oyakankerbank.de
@@ -8458,7 +8421,6 @@ payco.com
 payjet.ru
 paykun.com
 paymash.io
-paymaster.ru
 payment-gateway.tosspayments.com
 payment.ru
 paymentgate.ru
@@ -8546,7 +8508,6 @@ pgto.net
 phaiphai.life
 philthefire.com
 phimhdx.live
-phoca.cz
 phoenixfinance.com.bd
 photos-ugc.l.googleusercontent.com
 php.net
@@ -8658,7 +8619,6 @@ post.gov.tw
 post.nl
 postacertificata.lextel.it
 postbank.kz
-posted.co.rs
 posteo.de
 postmylink.com
 posu.cc
@@ -8761,13 +8721,11 @@ psd-kiel.de
 psd-koblenz.de
 psd-koeln.de
 psd-nord.de
-psd-rhein-ruhr.de
 psd-rheinneckarsaar.de
 psd-westfalen-lippe.de
 psh.li
 psmi.info
 pssckksk.uribl.spameatingmonkey.net
-psu.edu
 psys.uk
 ptns.io
 pttbank.ptt.gov.tr
@@ -8882,7 +8840,6 @@ qrpathway.com
 qrpol.com
 qrpro.net
 qrtli.com
-qrto.org
 qrump.com
 qrurl.co
 qrurl.us
@@ -8904,7 +8861,6 @@ quickcard-googlereview.me
 quickcard-smartbusinesscard.me
 quickchart.io
 quickcode.digital
-quickconnect.to
 quicklink-lilac.vercel.app
 quicklinkpro.io
 quickqr.be
@@ -9228,7 +9184,6 @@ rb-wug.de
 rb-zellerland.de
 rb-zorneding.de
 rb6.co
-rba.hr
 rbaccess.rogersbank.com
 rbbissingen.de
 rbbn.de
@@ -9606,7 +9561,6 @@ saferpay.com
 saferurl.net
 safeurl.ch
 safuretech.pk
-sagepub.com
 sagyap.tk
 sahibinden-vod2.mncdn.com
 saib.com.sa
@@ -9670,7 +9624,6 @@ scanly.pro
 scanquickly.com
 scanulator.com
 scay.cc
-scb.co.th
 scbeasy.com
 scbet88vvip.org
 scd.tips
@@ -9697,7 +9650,6 @@ scrapcc.org
 scre.ws
 screenrant.com
 scsb.com.tw
-scu.mb.ca
 scu.org.tw
 scur.cat
 scurt.eu
@@ -10212,7 +10164,6 @@ simatso.site
 simonclaussen.com
 simple.com
 simplepay.hu
-simpleswap.io
 simpleurl.link
 simplii.com
 simpltrk.com
@@ -10245,7 +10196,6 @@ sk.fuelo.net
 sk.gy
 sk.in.rs
 sk8.by
-skandia.se
 skanshort.com
 skb-badhomburg.de
 skb-buehlertal.de
@@ -10254,7 +10204,6 @@ skb-gemuenden.de
 skb-hammah.de
 skb-hardt.de
 skb-rheinstetten.de
-skbank.com.tw
 skbwitten.de
 ski.gd
 skia.googlesource.com
@@ -10400,7 +10349,6 @@ socialink.it
 socilinkr.com
 socxo.io
 sofinet.com.ve
-sofisadireto.com.br
 software.opensuse.org
 softyfy.com
 solicitudestarjetas.banesco.net
@@ -10492,7 +10440,6 @@ sparkasse-parchim.de
 sparkasse-pm.de
 sparkasse-radevormwald.de
 sparkasse-rheine.de
-sparkasse-rottweil.de
 sparkasse-saalfeld-rudolstadt.de
 sparkasse-schongau.de
 sparkasse-schwandorf.de
@@ -10671,7 +10618,6 @@ state.tx.us
 static-nss.xhcdn.com
 static.adguard.com
 static.adtidy.org
-static.cinemagia.ro
 static.cloudflareinsights.com
 static.coinbase.com
 static.garmin.com
@@ -10720,7 +10666,6 @@ stllna.com
 stnonline.com
 stock-notifications.astockcdn.net
 stocks-edge.apple.com
-stone.com.br
 stor.ee
 stor.live
 storage.signal.org
@@ -10857,7 +10802,6 @@ t2r.lv
 t77reg.click
 taajir.me
 taam.io
-taap.it
 taedy.com
 tagbuilder.io
 taggpro.me
@@ -11194,7 +11138,6 @@ toolssagar.com
 topvir.com
 tore.marketing
 tori.top
-toroinvestimentos.com.br
 tos-test.com
 toskys.cn
 toss.is
@@ -11269,7 +11212,6 @@ traficut.com
 trahm.co
 train.ideabank.ua
 transaccionesbancolombia.com
-transamerica.com
 transbank.cl
 transcredit.ru
 transientfiles.com
@@ -11404,7 +11346,6 @@ turtl.ink
 turtlink.com
 tuskqr.com
 tusviralesc.us
-tutotoons.com
 tvaddons.ag
 tvdb2.plex.tv
 tvoy-link.ru
@@ -11475,7 +11416,6 @@ uby.es
 uc.pcbeta.com
 ucam.me
 uchopx.com
-ucla.edu
 ucpb.biz
 ud-chat.signal.org
 udengi.ru
@@ -11507,7 +11447,6 @@ umapa.pl
 umbank.ru
 umcu.org
 umdc.alipay.org
-umich.edu
 uml.mx
 umn.edu
 umper.co
@@ -11520,7 +11459,6 @@ unesa.xyz
 uni.ms
 uniastrum.ru
 unicaja.es
-unicajabanco.es
 unicred.com.br
 unicreditbank.hu
 unicreditbanking.eu
@@ -11842,7 +11780,6 @@ us.bestbrains.com
 us.hsbc.com
 us.itopsdk.com
 us.sa
-usa.gov
 useclick.io
 used.com.ph
 usego.net
@@ -11909,7 +11846,6 @@ valvesoftware.com
 vancedshorts.com
 vancity.com
 vanderbi.lt
-vanguard.com
 vanier.co
 vanlifediyfitouts.com.au
 varengold.de
@@ -12471,7 +12407,6 @@ waltersauto.net
 wangzhanzhubo.com
 wapicome.site
 wapp.to
-warburg-bank.de
 wartburg-sparkasse.de
 wasapbro.com
 washoeschools.net
@@ -12486,7 +12421,6 @@ we.pe
 we.tl
 we9u8cjt.uribl.spameatingmonkey.net
 wealthbar.com
-wealthsimple.com
 weareja.org
 weatherapi.market.xiaomi.com
 weaveen.com
@@ -12571,7 +12505,6 @@ winterbacher-bank.de
 winterlinger-bank.de
 wirecardbank.de
 wirelessnotifiersystem.com
-wisc.edu
 wisestamp.link
 wishew.app
 wishly.in
@@ -12633,7 +12566,6 @@ wtfurl.com
 wts2.smhi.se
 wts3.smhi.se
 wuestenrotdirect.de
-wufoo.com
 wunderlist.com
 wurl.io
 wvb.de
@@ -12728,7 +12660,6 @@ www.fok.nl
 www.forms.gle
 www.fossil.com
 www.fsiblbd.com
-www.g4media.ro
 www.galeriakrakowska.pl
 www.gandul.ro
 www.garmin.com
@@ -12960,7 +12891,6 @@ xn--ugt.cc
 xo.sd
 xo0.ir
 xozap.com
-xpi.com.br
 xplinks.com
 xpol.com.tr
 xprrtupdate.com
@@ -13004,7 +12934,6 @@ yaoi.link
 yapikredi.com.az
 yatesinspayments.com
 ybbhfj8v.uribl.spameatingmonkey.net
-ybs.co.uk
 yellowbook.com
 yenibayi.passotaksit.com.tr
 yero.it
@@ -13081,7 +13010,6 @@ zcbprod.alipay.com
 zebra.li
 zenfilm.solutions
 zenlinkit.com
-zenstudios.com
 zensus.io
 zephb.com
 zeroshort.xyz

@@ -1,17 +1,17 @@
 ##############################################################################
 # AEGIS-DNS published list — allow / domains
 # Chunk          : hosts-allow-part0.txt (1 of 1)
-# Lines in chunk : 22,133
+# Lines in chunk : 22,146
 #
-# Block domains  : 57,614,944 across 29 chunk(s)
-# Block IPs      : 546,296 across 1 chunk(s)
-# Allow domains  : 22,133 across 1 chunk(s)
+# Block domains  : 57,690,296 across 29 chunk(s)
+# Block IPs      : 556,268 across 1 chunk(s)
+# Allow domains  : 22,146 across 1 chunk(s)
 # Allow IPs      : 21 across 1 chunk(s)
 # Pinned (block) : 6,012
-# Pinned (allow) : 291
+# Pinned (allow) : 322
 #
-# Build started  : 2026-09-30T17:42:26Z
-# Build duration : 53m 1s
+# Build started  : 2026-10-03T15:26:31Z
+# Build duration : 49m 22s
 # Manifest       : https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_allow_lists/manifest.json
 ##############################################################################
 
@@ -252,7 +252,6 @@
 1gh.co
 1i1.in
 1in.me
-1ink.info
 1ir.org
 1kh.de
 1kinobig.ru
@@ -682,6 +681,7 @@ a-airasia-001-gyf12.insnw.net
 a.189.cn
 a.6mqw.org
 a.94inet.com
+a.allegroimg.com
 a.aorganic.io
 a.apkpures.xyz
 a.basemaps.cartocdn.com
@@ -931,6 +931,7 @@ adelaidebank.com.au
 adelfibanking.com
 adesp.link
 adesta.cc
+adevarul.ro
 adf.ly
 adfa.st
 adfly.cc
@@ -1076,7 +1077,6 @@ agll.ink
 agmd.win
 agorainvestimentos.com.br
 agoz.me
-agphosting.com
 agr.my
 agranisme.org
 agrd.io
@@ -1156,7 +1156,6 @@ akm.works
 akoo.ir
 akr.gr
 akses.digital
-akses.gg
 akses.me
 akslot.io
 aktfclick.com
@@ -1167,7 +1166,6 @@ akunnp.com
 akunss.com
 akunsu.com
 akunvip.top
-akunwso.gratis
 al.st
 al4.dev
 alaa.tv
@@ -1223,6 +1221,7 @@ allamericanpatriots.com
 allbio.link
 alldomainwhois.xyz
 allegacy.org
+allegrovid.com
 allgaeuer-volksbank.de
 alli.pub
 allianceonline.com.my
@@ -1452,6 +1451,7 @@ api.crunchyroll.com
 api.cryptonator.com
 api.decathlon.net
 api.directory.signal.org
+api.e-wizyta.enel.pl
 api.ebay-kleinanzeigen.de
 api.elasticemail.com
 api.ethermine.org
@@ -1515,6 +1515,7 @@ api.vizio.com
 api.webengage.com
 api.ximalaya.com
 api.zomato.com
+api2.eon.ro
 apicache.vudu.com
 apigw.tosspayments.com
 apis.justwatch.com
@@ -1695,6 +1696,7 @@ asset-cdn.dev
 asset.deme-group.com
 assets-prod.sumo.prod.webservices.mozgcp.net
 assets-proxy.anthropic.com
+assets.allegrostatic.com
 assets.anthropic.com
 assets.calendly.com
 assets.claude.ai
@@ -1844,7 +1846,6 @@ avl.mx
 avlne.ws
 avlr.co
 avon.payupay.ru
-avtk.io
 avtub.pw
 avvillas.com.co
 avyc.io
@@ -1928,7 +1929,6 @@ b4y.net
 b51.tw
 b54.in
 b6e.cn
-b808.bet
 b9d.me
 ba.org.tw
 baaderbank.de
@@ -2666,6 +2666,7 @@ boclinkvn.net
 bodenseebank.de
 bofh.us
 bofo.ly
+bogsio.gumroad.com
 boi.re
 boile.rs
 bok.com.tw
@@ -3419,6 +3420,7 @@ chopurl.io
 chort.me
 chotourl.me
 chrome.adtidy.org
+chrome.cloudflare-dns.com
 chrome.google.com
 chron.com
 chtbl.com
@@ -3500,6 +3502,7 @@ cl1.nl
 clamav.net
 clarobr.co
 clater.us
+claude.ai
 clave.gob.es
 clb.bankmtb.ru
 clb.olmabank.ru
@@ -3888,6 +3891,7 @@ congress.international
 conify.cc
 connatix.com
 conncheck.opensuse.org
+connect-eu-01.nimbus.bitdefender.net
 connect.auone.jp
 connect.intel.com
 connect.rtb.ru
@@ -4603,6 +4607,7 @@ difi.no
 digbig.com
 digg.ai
 digg.com
+digi.ro
 digid.nl
 digidip.net
 digilix.co
@@ -4827,6 +4832,7 @@ download.windowsupdate.com
 download.winzip.com
 downloadcontent.opensuse.org
 downloads.avn-dc.garmin.com
+downloads.claude.ai
 downloads.mailchimp.com
 downloads.raspberrypi.org
 downloadtonic.com
@@ -4917,6 +4923,7 @@ dub.co
 dub.link
 dub.sh
 duckdns.org
+duckduckgo.com
 due.im
 duitwow.site
 dukehealthwiki.com
@@ -5133,6 +5140,7 @@ edge-306.defra2.icloud-content.com
 edge-chat.facebook.com
 edge-irl1.demdex.net
 edge-mqtt.facebook.com
+edge.allegro.pl
 edge.api.brightcove.com
 edge.blablacar.sk
 edge.myqnapcloud.io
@@ -5211,6 +5219,7 @@ el1nk.com
 el32.com
 ela.st
 elaxima.pro
+elb-fra-gcp.nimbus.bitdefender.net
 elb-iow-gcp.nimbus.bitdefender.net
 elb-ned-gcp.nimbus.bitdefender.net
 elb-nvi-gcp.nimbus.bitdefender.net
@@ -7707,6 +7716,7 @@ fincrif.com
 find.at
 findmini.app
 findmylink.org
+findnms.samsungiotcloud.com
 findschools.ca
 fineco.it
 finecobank.com
@@ -7772,7 +7782,6 @@ flip.id
 flip.it
 flipboard.com
 fliplink.eu
-fliplink.io
 flipp.com
 fll.sh
 fllk.io
@@ -7869,7 +7878,6 @@ found.ee
 fourshort.com
 foursquare.com
 fox.tv
-fox13now.com
 foxbit.com.br
 foxc.art
 foxlyme.com
@@ -9782,6 +9790,7 @@ ingdirect.es
 ingdirect.fr
 ingnm.eu
 ingonline.com
+ingtfi24.pl
 ingwb.com
 inicio.link
 inicis.com
@@ -11174,6 +11183,7 @@ linkgizmo.com
 linkgo.live
 linkgqq.org
 linkgue.com
+linkhd.co
 linkhebat.com
 linkhub.biz
 linkhub.to
@@ -11244,7 +11254,6 @@ linkme.vn
 linkmeow.com
 linkmix.co
 linkmngr.com
-linkmonet.com
 linkmpomax.live
 linkmu.cyou
 linkmybrand.com
@@ -12038,7 +12047,6 @@ mdbrp.com
 mdcdev.me
 mdcr1.com
 mdidesign.ca
-mdklt.com
 mdl.coach
 mdl.town
 mdl29.net
@@ -12273,6 +12281,7 @@ minilink.pro
 minilinked.com
 minily.org
 minisforum.de
+minisforumpc.eu
 minitv.fun
 miniurl.be
 miniurl.com
@@ -12468,6 +12477,7 @@ moy.kr
 moyu.ac.cn
 moz.com
 mozafer.com
+mozilla.cloudflare-dns.com
 mozilla.com
 mozilla.net
 mozilla.org
@@ -12579,6 +12589,7 @@ multishorturl.com
 mumy.me
 munbyn.biz
 munchbet.live
+mup.amp.mcafee.com
 mupf.me
 murl.com
 murl.gg
@@ -13008,6 +13019,7 @@ nikoil.az
 nils.link
 nimbi.net
 nimbli.app
+nimbus.bitdefender.net
 nimex.live
 nimiq.com
 nimje.org
@@ -14273,6 +14285,7 @@ polamax.win
 polbb.eu
 polgaribank.hu
 policy.samsungpass.com
+polink.co
 politi.co
 politico.com
 polka.typekit.com
@@ -14363,6 +14376,7 @@ prbkbr-ibank2.ru
 prbly.us
 prdct.school
 pre.la
+precisionsec.com
 preferredds.com
 prejit.cz
 prel.ink
@@ -14444,6 +14458,7 @@ profyler.de
 profyo.com
 project-osus.vercel.app
 project418.org
+projects.gitlab.io
 projects.id
 projectxv2-hyperlink.vercel.app
 projycto.com
@@ -16009,6 +16024,8 @@ screeee.com
 screenrant.com
 scribd.com
 scribol.com
+scs-config-use2.bixbyllm.com
+scs-vision-euw1.bixbyllm.com
 scsb.com.tw
 sctrack.sendcloud.net
 scts.in
@@ -16503,7 +16520,6 @@ shortenx.com
 shorter.gg
 shorter.io.vn
 shorter.me
-shorterall.com
 shorterflix.com
 shorterin.com
 shorterit.com
@@ -17151,7 +17167,6 @@ snip.ly
 snip.ng
 snipi.io
 snipify.net
-snipit.in
 snipitx.com
 snipix.tech
 sniplify.me
@@ -17224,6 +17239,7 @@ someonewhocares.org
 sonar.viously.com
 sonicenhancedfood.com
 sonoran.link
+sony.com
 sonyliv.com
 soo.gd
 soop.li
@@ -17758,7 +17774,7 @@ static-ssl.duolingo.com
 static.addtoany.com
 static.adguard.com
 static.adtidy.org
-static.cinemagia.ro
+static.assetlab.io
 static.cloudflareinsights.com
 static.coinbase.com
 static.garmin.com
@@ -17830,7 +17846,6 @@ stileproject.com
 stisa.org.cn
 stitcher.pluto.tv
 stk.so
-stke.xyz
 stllna.com
 stmodel.com
 stnonline.com
@@ -17962,7 +17977,6 @@ supr.cl
 supr.link
 supurlman.com
 sur.ly
-sura.pw
 surayafans.com
 surkali.me
 surl.be
@@ -18298,7 +18312,6 @@ teil.cc
 tek.io
 tekan.in
 teknik.io
-teknut.com
 teksweb.icbc.com.tr
 tel-u.ac.id
 tele2.ru
@@ -19246,7 +19259,6 @@ u.to
 u0c.net
 u1.mnge.co
 u2.to
-u2l.io
 u2s.ca
 u2s.tn
 u301.com
@@ -19474,6 +19486,7 @@ ups.com
 ups.ksmobile.net
 upstriderlinks.com
 upt.sh
+uptime.betterstack.com
 uptodatefinishconferenceroom.com
 uptolink.one
 uptoplink.com
@@ -21137,7 +21150,6 @@ wufoo.com
 wun.io
 wunderground.com
 wunderlist.com
-wuniw.com
 wurl.io
 wurlie.net
 wurlz.com
@@ -21255,6 +21267,7 @@ www.dbs.com
 www.decathlon.pl
 www.dedeman.ro
 www.deltabrac.com
+www.digi24.ro
 www.digisport.ro
 www.digital.peoplesbank.lk
 www.digitalcameraworld.com
@@ -21295,7 +21308,6 @@ www.fossil.com
 www.fr
 www.freestyle.abbott
 www.fsiblbd.com
-www.g4media.ro
 www.galeriakrakowska.pl
 www.gandul.ro
 www.garmin.com
@@ -21375,6 +21387,7 @@ www.marktplaats.nl
 www.mblbd.com
 www.mcb.mu
 www.mcssl.com
+www.medical-devices.ro
 www.meghnabank.com.bd
 www.meizu.com
 www.meridianfinancebd.com
@@ -21452,6 +21465,7 @@ www.primefinancebd.com
 www.profi.ro
 www.profit.ro
 www.promotor.ro
+www.protv.ro
 www.pubalibangla.com
 www.publi24.ro
 www.qksrv.net
@@ -21958,7 +21972,6 @@ zaya.io
 zaymer.ru
 zbitly.com
 zc.vg
-zcays.com
 zcbprod.alipay.com
 zctz.me
 zcu.io
