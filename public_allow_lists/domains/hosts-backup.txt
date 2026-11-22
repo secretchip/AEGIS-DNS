@@ -6511,7 +6511,6 @@ kt.mrmd.com
 ktb.co.th
 ktb.com.tw
 ktbnetbank.com
-kua.lat
 kubank.ru
 kubankredit.ru
 kubernetes.io
