@@ -22,14 +22,14 @@ other host-list-based filter.
 ## Stats
 
 <!-- stats:start -->
-_Last build: **2026-11-22 19:02 UTC**, took 47m 39s._
+_Last build: **2026-11-23 23:36 UTC**, took 32m 6s._
 
 | List  | Domains                | IPs                    | Chunks (domains / IPs) |
 | ----- | ---------------------: | ---------------------: | ---------------------: |
-| block | 59,039,029 | 635,540 | 30 / 1 |
-| allow | 22,731 | 21 | 1 / 1 |
+| block | 59,628,736 | 645,864 | 30 / 1 |
+| allow | 22,773 | 21 | 1 / 1 |
 
-Manually pinned: **6,919** block, **780** allow.
+Manually pinned: **6,921** block, **825** allow.
 <!-- stats:end -->
 
 (_The block above is regenerated automatically by `pipeline/finalize-build.py` at the end of every pipeline run._)

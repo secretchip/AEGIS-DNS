@@ -1,225 +1,225 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T19:51:19Z",
+  "generated_at": "2026-11-24T00:09:33Z",
   "type": "block",
-  "total_lines": 59674569,
+  "total_lines": 60274600,
   "parts": [
     {
       "name": "hosts-block-part0.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part0.txt",
       "lines": 2000000,
-      "sha256": "05638c8fa942cc5650b2d1d0c964f6f8ef615364d9b453f1745da8018b88aadf"
+      "sha256": "ebf4a1cb4c1fda7e60fd82dcc6ef37882cbf84e278a14716e1883852fb93c294"
     },
     {
       "name": "hosts-block-part1.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part1.txt",
       "lines": 2000000,
-      "sha256": "085e549169c061a93a0b7e5610b01e840c94dfc69805acb2dfbd6127583c6152"
+      "sha256": "e1584844f1eba9178d3f8d9c369b55882e8f7c914761ef054aea97eec08b5e90"
     },
     {
       "name": "hosts-block-part10.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part10.txt",
       "lines": 2000000,
-      "sha256": "b817dd9798e27109b4091dd10488452b60380f5b84b05afa9607289f2d49af64"
+      "sha256": "9d1e84f08a46ac32724a6ac37cb49e47594dbaaec7afe4fb0732c87fa97dd402"
     },
     {
       "name": "hosts-block-part11.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part11.txt",
       "lines": 2000000,
-      "sha256": "3f149973a64d96eacdc7a0f65def3aa9e1277749c51929ad9fe3fe312a26b785"
+      "sha256": "0dd5f506ee4f30fd9bb1bd6642c2d6a6b2da9885f3357f5861ab0d300e25d7e5"
     },
     {
       "name": "hosts-block-part12.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part12.txt",
       "lines": 2000000,
-      "sha256": "a386748a87801aad195987655966934571a0887d8903e234453235a2ee6921cc"
+      "sha256": "f3cb78d01d28f1774d24995ae5b78cb8dc3119c3e18af2c1c2b4af3b56b7edff"
     },
     {
       "name": "hosts-block-part13.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part13.txt",
       "lines": 2000000,
-      "sha256": "c1a15d451e0d9f38eaedce5edcc5c0fd30249cd10dc13d559d2eaa16608dca0f"
+      "sha256": "d27651b0e350d563d1cdded30416cee902c2fa33d0fb8111f86e6e7912634acc"
     },
     {
       "name": "hosts-block-part14.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part14.txt",
       "lines": 2000000,
-      "sha256": "5cac20d9a932aaca698b0b4db7987623b58b91fd8e190776c533232536988de3"
+      "sha256": "4368f0eebef4278b4a4199574c10578ab0f52a1edc54e9a3a5c9cfd232d4fb49"
     },
     {
       "name": "hosts-block-part15.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part15.txt",
       "lines": 2000000,
-      "sha256": "1bd483c67b05a187e37481e31aa117d45c9df431a8b51a8726daa6dc5e84f032"
+      "sha256": "b8c2c34ea8fe6a83bd2295e21e4cf1474fc926a9b3d17a1ea24710b5b4f5dee3"
     },
     {
       "name": "hosts-block-part16.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part16.txt",
       "lines": 2000000,
-      "sha256": "b11f2bdd3970ed8a4b246f4a44c535c2a23406ff9d4d50d1dc84dbb391fa37ce"
+      "sha256": "d78f3230be10c46d1ed1e9948f02bb50ede24fefb05d59b8b2193f299fe27bde"
     },
     {
       "name": "hosts-block-part17.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part17.txt",
       "lines": 2000000,
-      "sha256": "4c32f7d871f715b94619c8724fe97ea8f9f4d02bdfc29e3f3057bb2b0cdf95b5"
+      "sha256": "c07cc6fd4bf8e821c499b59dae991d6f651098a66f9864880815f141a1aaade5"
     },
     {
       "name": "hosts-block-part18.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part18.txt",
       "lines": 2000000,
-      "sha256": "d20a1b7343d38f9d55d902f6c04952b3318359e005d0f81f3a0af02b3a35f666"
+      "sha256": "f217b2b4b26de3d9d535e422d2b8ceb9dda62eb4b94f12ca783ba45b1dafe757"
     },
     {
       "name": "hosts-block-part19.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part19.txt",
       "lines": 2000000,
-      "sha256": "f15c4773570038d4af8da9ae0a351c3ffc9a0b491e447fa4db53605199b0b8ce"
+      "sha256": "7382886be75d765f43eb2d3333854a43c4b034c4d4ea2d08a0303a3cd5a5c443"
     },
     {
       "name": "hosts-block-part2.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part2.txt",
       "lines": 2000000,
-      "sha256": "190ebd309c373913772120a41405d33c4b0f4075dfbecee75dda934a86c030f7"
+      "sha256": "3d3b506ede2b796852d963d9118bd8228f844a6d5d7a59d6da100330d34aa3ce"
     },
     {
       "name": "hosts-block-part20.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part20.txt",
       "lines": 2000000,
-      "sha256": "a4eb45a54b1c0e676ae0dfad7d5580c4c5fd40975f6bec09ce33d8b570f0ec9e"
+      "sha256": "174c2db1a41455e5f14a32f93cc616174417584587a33fbaee65687612e678cd"
     },
     {
       "name": "hosts-block-part21.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part21.txt",
       "lines": 2000000,
-      "sha256": "40c3e17e224896cab849e7b1acf059eb09d3c21fabdef7f878ad9d45cf8ca9fb"
+      "sha256": "f16ad1e6d9d18807103424a5295a240411fd647db75f3bae6c5a6a58a87950e3"
     },
     {
       "name": "hosts-block-part22.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part22.txt",
       "lines": 2000000,
-      "sha256": "26ab2619ae45dad9bc5a4505ffdf9165e95b269ee2c4b29ff9708f8258de23eb"
+      "sha256": "f341273f8c562b70bbf3369e3b993f21247b05c6fbd2252d5358d3f9a1771fae"
     },
     {
       "name": "hosts-block-part23.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part23.txt",
       "lines": 2000000,
-      "sha256": "2b990a549fa9eb687ca630548950cdbd80994796f89ba99728969268a18ad481"
+      "sha256": "6d23696cea3f3737f38dfb1be4b8e0e42cad54c46cf9002d4b93c6d995ce2f43"
     },
     {
       "name": "hosts-block-part24.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part24.txt",
       "lines": 2000000,
-      "sha256": "f48ef38b8ff10c0c44b7f0fbeb7c2df74b40e2e5bf1be38d4ed9837d77fdf515"
+      "sha256": "f48116ee09f9da1760df38167211f497a73293608d74af1605c5cb1f74ecb695"
     },
     {
       "name": "hosts-block-part25.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part25.txt",
       "lines": 2000000,
-      "sha256": "a0eb439d4fb955b4be5cbe5ccbe792c2a9ac46f2e5277c5ebf2efc7c22789797"
+      "sha256": "f6cfb742dd90de6c3f2c3506fa57951a53a9abd986058c39e1ac5694499abcd7"
     },
     {
       "name": "hosts-block-part26.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part26.txt",
       "lines": 2000000,
-      "sha256": "3e257d86703b4318d3a1905cf57c5b7e2002f48f5f1c8d70b66bfa47e00d33ad"
+      "sha256": "7b74db31875a0748a9357cfa61d753627747fd5244a21f51fdacbd0e1fd44588"
     },
     {
       "name": "hosts-block-part27.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part27.txt",
       "lines": 2000000,
-      "sha256": "4530cd330fa132f513d90573281f18d9b382ac0aedd1de2c15427e019cc258a6"
+      "sha256": "bb23dca95233f33588b0ce550570cbfa215f832bcf5a6cf13e8078b8a25219ed"
     },
     {
       "name": "hosts-block-part28.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part28.txt",
       "lines": 2000000,
-      "sha256": "76e0c1b184be383ac0212fc7308eb7a5488d2790528d3243a1293517e28af6ba"
+      "sha256": "48868dc0244be2d040e6a19cb5c43a17cbb8804208b98b454c4a123a4c139806"
     },
     {
       "name": "hosts-block-part29.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part29.txt",
-      "lines": 1039029,
-      "sha256": "058cbf417b94a0efb5c806084037d94ea964a288d6617e54b8f0f137f9635bbf"
+      "lines": 1628736,
+      "sha256": "9f7c4e67f1bf75ce09b169591eadc29650d12a5e2ecda7eeba2401bb40502b9a"
     },
     {
       "name": "hosts-block-part3.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part3.txt",
       "lines": 2000000,
-      "sha256": "0877d680848a35ec82187d4a07f8d50eace2022734cb96ab81d4a736d8b83a5a"
+      "sha256": "2a995bb87d086d6850ed36256bd3c943777fd3cc587900e233b2b029d08d8f03"
     },
     {
       "name": "hosts-block-part4.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part4.txt",
       "lines": 2000000,
-      "sha256": "f0c17b7bac17706ec62b4ec6513baeebc1604380d95da44514c6db01639b9c23"
+      "sha256": "83fbf406f97cde18e66eac4a08f010bbce3a0ce25b908d6a0f3629af49e68c69"
     },
     {
       "name": "hosts-block-part5.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part5.txt",
       "lines": 2000000,
-      "sha256": "255eda247babb03add2b280964a162ad681aefa4ce32df0080e38b0b650d5eb6"
+      "sha256": "7761e46f0eac9e563319671d43cfcf04401b19412e502747f6e046a7b8d6aabe"
     },
     {
       "name": "hosts-block-part6.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part6.txt",
       "lines": 2000000,
-      "sha256": "439472d2e36e49ef7e9059c5c5a542f50c3ce75ba27b98a4ad1d89a16950cd44"
+      "sha256": "6feb48e63655719014fe9c3d74b4f968293e24d2679c6cd2479081dd5d86925d"
     },
     {
       "name": "hosts-block-part7.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part7.txt",
       "lines": 2000000,
-      "sha256": "96322700f2928a47c4b4543c90970f7726ba1a252aa15373b35052dc4f3b22a5"
+      "sha256": "bf6e99c7a2880d41b012cafe867b3d94838ada94ac27037071d09680784fcedb"
     },
     {
       "name": "hosts-block-part8.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part8.txt",
       "lines": 2000000,
-      "sha256": "6b40916d51a51cf5037c142daa6750afec390f4083db44de83cfde68458f6c65"
+      "sha256": "ad0e76e076b08163086db41db9dd00e546a0ced2b2583210cb24b67e8e786277"
     },
     {
       "name": "hosts-block-part9.txt",
       "kind": "domains",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/domains/hosts-block-part9.txt",
       "lines": 2000000,
-      "sha256": "71fe3013202b665941f3ba2245d7168dafed9f56916a2148cb3e91dc83feee5c"
+      "sha256": "fea05d2f36ebb85cf7941595e7186b1afcac98df8df25fd5fc6a8b6a12d8d8f0"
     },
     {
       "name": "ips-block-part0.txt",
       "kind": "ips",
       "url": "https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_block_lists/ips/ips-block-part0.txt",
-      "lines": 635540,
-      "sha256": "26e46b6d54f9726149c72940cd1090bc51b5e8bdce2cd94d336d532ac87acc45"
+      "lines": 645864,
+      "sha256": "962c820879930ecd3e669bfb87409b25efbd06489f083b224e5f9a00849066ba"
     }
   ]
 }

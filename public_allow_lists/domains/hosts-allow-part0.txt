@@ -1,17 +1,17 @@
 ##############################################################################
 # AEGIS-DNS published list — allow / domains
 # Chunk          : hosts-allow-part0.txt (1 of 1)
-# Lines in chunk : 22,731
+# Lines in chunk : 22,773
 #
-# Block domains  : 59,039,029 across 30 chunk(s)
-# Block IPs      : 635,540 across 1 chunk(s)
-# Allow domains  : 22,731 across 1 chunk(s)
+# Block domains  : 59,628,736 across 30 chunk(s)
+# Block IPs      : 645,864 across 1 chunk(s)
+# Allow domains  : 22,773 across 1 chunk(s)
 # Allow IPs      : 21 across 1 chunk(s)
-# Pinned (block) : 6,919
-# Pinned (allow) : 780
+# Pinned (block) : 6,921
+# Pinned (allow) : 825
 #
-# Build started  : 2026-11-22T19:02:37Z
-# Build duration : 47m 39s
+# Build started  : 2026-11-23T23:36:39Z
+# Build duration : 32m 6s
 # Manifest       : https://raw.githubusercontent.com/secretchip/AEGIS-DNS/refs/heads/main/public_allow_lists/manifest.json
 ##############################################################################
 
@@ -231,6 +231,7 @@
 19.205.159.162.relays.bl.kundenserver.de
 19081.com
 1a.co.nz
+1a1inqjh.p.qrcdn.net
 1ad.io
 1af.me
 1and1.com
@@ -1473,6 +1474,7 @@ api.euro.hismarttv.com
 api.fast.com
 api.freeletics.com
 api.github.com
+api.githubcopilot.com
 api.glb.samsung-gamelauncher.com
 api.glovoapp.com
 api.gm.com
@@ -1480,6 +1482,7 @@ api.here.com
 api.heylink.com
 api.hostip.info
 api.iadvize.com
+api.individual.githubcopilot.com
 api.ingka.ikea.com
 api.ipify.org
 api.jakdojade.pl
@@ -1513,6 +1516,7 @@ api.roeid.ro
 api.rudderstack.com
 api.runwayml.com
 api.rustdesk.com
+api.samsungcareplus.com
 api.samsungcloud.com
 api.samsungfind.com
 api.samsungknowledge.com
@@ -1741,6 +1745,7 @@ assets.gumroad.com
 assets.huluim.com
 assets.ikhnaie.link
 assets.imobiliare.ro
+assets.libertatea.ro
 assets.micpn.com
 assets.pago.ro
 assets.protv.ro
@@ -1841,6 +1846,7 @@ auth.docker.io
 auth.isekaizero.ai
 auth.nostr1.com
 auth.openai.com
+auth.prd.nucleus.valuespaces.io
 auth.profi.lobyco.net
 auth.samsungosp.com
 auth.simperium.com
@@ -1852,6 +1858,7 @@ autistic.training
 auto-swiat.pl
 autoalarm.com
 autode.sk
+autodiscover-s.outlook.com
 autodoc24.ro
 autoflip.co
 autolink.live
@@ -2405,6 +2412,7 @@ bil.com
 bild.de
 billdesk.com
 billion.run
+bills.parliament.uk
 bim.im
 binance.com
 binarypiano.com
@@ -2899,6 +2907,7 @@ btwrdn.com
 btyrd.co
 bu66.com
 bubbleurl.com
+bucataria.lidl.ro
 bucket.coracle.social
 budabit.nostr1.com
 budapestbank.hu
@@ -2995,6 +3004,7 @@ bytly.in
 bytr.ee
 byuroscope.com
 bz9.com
+bzb.ro
 bzfd.it
 bzh.me
 bzi.ro
@@ -3302,6 +3312,7 @@ cdn.pixelbin.io
 cdn.polyfill.io
 cdn.prod.www.spiegel.de
 cdn.ravenjs.com
+cdn.recipes.lidl
 cdn.refersion.com
 cdn.registerdisney.go.com
 cdn.rollbar.com
@@ -3524,6 +3535,7 @@ ciq.to
 circl.lu
 circle.ci
 cirk.me
+cisa.gov
 cisco.com
 cision.com
 cisn.co
@@ -4187,6 +4199,7 @@ csob.sk
 csp-service.prod-varnish-ha-myra.lidl-shop.com
 csp.infoblox.com
 csp.withgoogle.com
+csrc.nist.gov
 css-load.com
 csvcllc.com
 csvip.me
@@ -4700,6 +4713,7 @@ digbig.com
 digg.ai
 digg.com
 digi.ro
+digicert.com
 digid.nl
 digidip.net
 digilix.co
@@ -5406,6 +5420,7 @@ encurtar.app
 encurtee.me
 encut.me
 endata.51kshen.com
+endpoints.leaflets.schwarz
 energized.pro
 eng-alpha.top
 eng-cariz.top
@@ -7623,6 +7638,7 @@ ezymanage.net
 ezyurl.net
 f-ast.me
 f-cdn.com
+f-droid.org
 f-internal.info
 f-n.link
 f-secure.com
@@ -7954,6 +7970,7 @@ fnleasing.com
 fnoogy.com
 fnord.eu
 fnote.it
+foam.gallery.vsassets.io
 focuspress.ro
 foe.hn
 foee.top
@@ -8385,6 +8402,7 @@ git.io
 git.new
 github.co
 github.com
+github.gallery.vsassets.io
 github.hubspot.com
 github.io
 gitlab.com
@@ -9002,7 +9020,9 @@ hec.su
 hegrasparebank.no
 heidelberger-volksbank.de
 heilynk.com
+heimdall.ut-capitole.fr
 helaba.de
+hell.sh
 hellenicnetbanking.com
 hello.myfonts.net
 hellobank.fr
@@ -9733,6 +9753,7 @@ ieg.li
 iembelleze.com
 ierp.co.nz
 iesnare.com
+ietf.org
 if.fm
 ifix.gd
 ifobs.bankcenter.com.ua
@@ -11036,6 +11057,7 @@ licensing.mp.microsoft.com
 licensing.xboxlive.com
 lick.my
 lidl.de
+lidl.leaflets.schwarz
 liebg.at
 lien.babel.coop
 lien.li
@@ -11797,7 +11819,6 @@ loginmaxwin.pro
 loginsaja.website
 logn3w.org
 logrocket.com
-logs.datadoghq.com
 logs.datadoghq.eu
 logy.li
 logz.io
@@ -12621,6 +12642,7 @@ motherless.com
 motiatech.com
 mou.sr
 moveurls.com
+movieweb.com
 moxe.me
 moyu.ac.cn
 moz.com
@@ -12664,6 +12686,10 @@ mrturl.com
 mrw.so
 mrx.bz
 mrx.cl
+ms-azuretools.gallery.vsassets.io
+ms-python.gallery.vsassets.io
+ms-vscode-remote.gallery.vsassets.io
+ms-vscode.gallery.vsassets.io
 ms0.org
 msa.akadns6.net
 msa.enel.it
@@ -13014,6 +13040,7 @@ nbg.gr
 nbmc.ru
 nbots.me
 nbzp.cz
+nc-mqtt.nordvpn.com
 nc.bnpparibas.net
 nccc.com.tw
 ncdhhs.gov
@@ -13448,6 +13475,7 @@ nutz.tools
 nuuthang.com
 nuuvem.com
 nvda.ws
+nvlpubs.nist.gov
 nw5g.com
 nwdealer.megafon.ru
 nwo-s.top
@@ -14072,6 +14100,7 @@ p1.rs
 p16-capcut-cms-sg.ibyteimg.com
 p1n.in
 p1r.es
+p2.shared.global.fastly.net
 p2p.alfabank.ua
 p2p.mdm.ru
 p2y.com.ua
@@ -15583,6 +15612,7 @@ redditlink.org
 redditstatic.com
 redefine.hit.stat24.com
 redefine2.hit.stat24.com
+redhat.gallery.vsassets.io
 redilify.com
 redir.ec
 redir.fr
@@ -18262,6 +18292,7 @@ static.tumblr.com
 static.wired.com
 static.withings.com
 static0.howtogeekimages.com
+static0.moviewebimages.com
 static0.srcdn.com
 static0.xdaimages.com
 static2.manualslib.com
@@ -19258,6 +19289,7 @@ toolify.link
 toolking.net
 toolkingo.com
 toolong.info
+tools.ietf.org
 tools.slipstick.com
 tools.y99.in
 toolsbyvasdijay.vercel.app
@@ -19837,6 +19869,7 @@ ukmail.com
 ukoeln.de
 ukrgasbank.com
 ukrsibbank.com
+uks1.rel.tunnels.api.visualstudio.com
 ul.royal-bank.ru
 ul.rs
 ul.to
@@ -21668,6 +21701,7 @@ www.adidas.pl
 www.affiliatefuture.com
 www.agerpres.ro
 www.agranibank.org
+www.aicpa-cima.com
 www.al-arafahbank.com
 www.allianz.pl
 www.amazon.pl
@@ -21729,6 +21763,7 @@ www.bracbank.com
 www.bucataras.ro
 www.bugetul.ro
 www.burobd.org
+www.bursa.ro
 www.byd.com
 www.bzi.ro
 www.cancan.ro
@@ -21737,6 +21772,7 @@ www.capebretonpost.com
 www.capital.ro
 www.catalog-az.ro
 www.catavencii.ro
+www.catena.ro
 www.cc-dt.com
 www.ceneo.pl
 www.change.org
@@ -21780,6 +21816,7 @@ www.dorkly.com
 www.download.windowsupdate.com
 www.dripemails.com
 www.dshield.org
+www.ducfarm.ro
 www.dutchbanglabank.com
 www.ebank.peoplesbank.lk
 www.ebl.com.bd
@@ -21826,6 +21863,7 @@ www.gaviscon.ro
 www.gazetadambovitei.ro
 www.gds.ro
 www.ghiseul.ro
+www.githubstatus.com
 www.glb.paypal.com
 www.globalislamibankbd.com
 www.go4it.ro
@@ -21960,6 +21998,7 @@ www.newsradar.ro
 www.nextplatform.com
 www.nfl.com.bd
 www.nfscars.net
+www.nist.gov
 www.no-ip.com
 www.notebookcheck.pl
 www.notion.so
@@ -22037,6 +22076,7 @@ www.reddit.com
 www.redtube.com
 www.refersion.com
 www.rfa.org
+www.rfc-editor.org
 www.rivm.nl
 www.romania-actualitati.ro
 www.romaniatv.net
@@ -22370,6 +22410,8 @@ ybs.co.uk
 yc.ms
 ye.c.lencr.org
 ye.pe
+ye1.c.lencr.org
+ye2.c.lencr.org
 yeca.eu
 yect.com
 yellowbook.com
